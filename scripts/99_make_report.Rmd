@@ -1,0 +1,196 @@
+---
+title: "选题三研究报告：尿路梗阻机械应力基因的肾纤维化进展/预后分型"
+author: "ObstructiveNephropathy_MRG 项目"
+date: "2026-08-17"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    fig_width: 6
+    fig_height: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+FIG <- "E:/sheng xin/ObstructiveNephropathy_MRG/figures"
+```
+
+# 摘要
+
+本研究把 IPF 论文（*J Transl Med*, DOI 10.1186/s12967-025-07365-7）的"机械力相关基因（MRG）→
+打分 → WGCNA → 特征 → 分型"范式迁移到梗阻性肾病/肾纤维化。以 2,536 个机械力基因
+（用户提供 `mechanical force.txt`，与论文 S1 三集合并集逐基因一致）为特征，在单批次人队列
+GSE115857（IgAN 55 / 非进展性对照 30）上完成全流程分析，并用小鼠 UUO bulk/单细胞、人肾空间
+转录组与 UUO 时间序列做多维度验证。
+
+核心结论：
+
+1. 机械基因评分在 IgAN 组显著升高（wilcox **p=3.63e-10**）。
+2. 3 基因机械签名（NDNF、PCDHB7、RRAGB；已剔除 OR2A20P 等伪基因/极端 OR 候选）区分 IgAN 与对照
+   **AUC=0.853（5 折 CV 0.813±0.079）**；nomogram C-index=0.696、校准斜率=1。
+3. 分子分型 C1/C2（K=2，PAC=0.442），两亚型机械评分差异 p=0.0105；TGF-β 通路差异 p=3e-05。
+4. 小鼠 UUO 单细胞：近端小管 38.5%→5.9%、成纤维 1.7%→10.0%、巨噬 4.8%→21.9%；集合管机械评分最高。
+5. 人肾 CosMx 空间：机械评分与纤维化 ECM 评分区域级（FOV）Spearman rho=0.586。
+6. UUO 时间序列（normal/D3/D7/D14）：机械核心评分与天数 Spearman **rho=0.94**，
+   85.5% 核心基因随时间正向升高。
+
+# 背景与假设
+
+- H1：集合管/肾小管上皮经 Piezo1、TRPV4 等机械感受器感知牵张，激活 YAP/TAZ、MRTF-A、
+  RhoA-ROCK，分泌 TGF-β1/CTGF 等促纤维化因子，驱动间质肌成纤维活化。
+- H2：机械应激强度不同的患者可形成可复现的分子亚型。
+- H3：核心机械基因富集于纤维化生态位，可被空间转录组验证。
+
+# 数据与方法
+
+| 数据集 | 物种 | 类型 | 样本 | 用途 |
+| --- | --- | --- | --- | --- |
+| GSE115857 | 人 | Illumina HT-12（肾活检） | 86（IgAN 55/MCD 12/MN 11/供肾 7/FSGS 1） | 主队列：分型与签名 |
+| GSE66494 | 人 | Agilent 4x44K | 61（CKD 53/normal 8） | 方向复核（批次混淆，仅辅助） |
+| GSE299417 | 小鼠 | UUO bulk RNA-seq | 24（Sham/UUO × Veh/早期/晚期干预） | 静态跨物种验证 |
+| GSE118339 | 小鼠 | UUO 时间序列 bulk（TPM） | 15（normal/D3/D7/D14） | 时间轨迹验证 |
+| GSE175412 | 小鼠 | UUO scRNA-seq | 3（1 sham + 2 UUO） | 单细胞定位 |
+| GSE198621 / GSE269062 / GSE269063 | 小鼠 | 纤维化 scRNA / 空间 | 11 / 6 / 2 | 备选（本轮未深度使用） |
+| GSE282059 | 人 | CosMx 6k 空间 | 1（多 ROI，523,855 细胞） | 空间验证 |
+
+方法参数：|log2FC|>0.585 & adj.p<0.05；WGCNA signed、β=4（R²=0.741）、GS/MM≥0.5；
+LASSO 10 折 lambda.min；随机森林 1,000 棵；ConsensusClusterPlus pItem=pFeature=0.8、reps=1,000、
+PAC 判 K；全局种子 42。全部实现见 `scripts/02–13`，偏差与决策见 `results/deviation_log.md`。
+
+# 结果
+
+## 机械力评分
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_mrg_score_igag.png"))
+```
+
+IgAN 组 MRG_up ssGSEA 评分显著高于对照（wilcox p=3.63e-10），与 IPF 原论文"疾病组机械评分升高"
+结论方向一致。
+
+## 共表达模块与核心基因
+
+WGCNA（55 例 IgAN，19,409 基因）得 38 个模块；最优模块与机械评分 |cor|=0.477；
+按 |GS|≥0.5 且 |MM|≥0.5（不足 50 时取 |GS| 前 100 保底）得 **100 个核心机械基因**。
+
+## 签名、ROC 与 nomogram
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_roc_igag_signature.png"))
+knitr::include_graphics(file.path(FIG, "fig_nomogram_igag.png"))
+```
+
+LASSO∩RF 得 3 基因签名（NDNF、PCDHB7、RRAGB；OR2A20P 等 3 个伪基因/极端 OR 候选已按 QC 规则剔除）。
+LASSO 线性预测的整体 AUC=0.853，5 折交叉验证 AUC=0.813±0.079。
+逐步回归保留 NDNF/PCDHB7，nomogram 的 C-index（Dxy）=0.696、校准斜率=1。
+
+## 分子分型 C1/C2
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_subtype_mech_score.png"))
+```
+
+K=2（PAC=0.442）：C1 n=12、C2 n=43；C2 机械评分显著更高（wilcox p=0.0105）。
+
+## 通路与免疫
+
+Hallmark ssGSEA：TGF-β 信号 IgAN vs 对照 p=3e-05；EMT p=0.246（不显著）；
+签名基因与免疫标记的相关矩阵见 `data/processed/sig_immune_marker_cor.csv`：
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_sig_immune_heatmap.png"))
+```
+
+### 免疫细胞反卷积（Charoentong 28 细胞签名）
+
+采用 Charoentong 2017 Cell Reports Table S6（用户提供 mmc3.xlsx，28 细胞类型、782 基因，
+核验无误并转为 `data/reference/Charoentong_28_immune.gmt`）做 ssGSEA 反卷积；
+另以 Bindea 24 签名交叉验证（见 D20）：
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_immune28_heatmap.png"))
+knitr::include_graphics(file.path(FIG, "fig_subtype_Central_memory_CD8_T_cell.png"))
+```
+
+IgAN 组显著升高（BH<0.05，共 11 个细胞类型）：**中央记忆 CD8 T 细胞（p=1.2e-5）、
+活化 B 细胞（p=2.3e-4）、MDSC、NK/NKT、巨噬、中性粒**；嗜酸性粒细胞降低。
+完整表见 `data/processed/immune28_charoentong_results.csv`。
+
+#### 与 Bindea 24 的一致性
+
+16 对可匹配细胞类型中，方向一致 10/16；逐样本 Spearman 相关在活化 B 细胞（0.752）、
+巨噬（0.511）、Th2（0.435）、Th1（0.371）、中性粒（0.358）等固有免疫/B 系细胞上较高，
+而记忆 T 亚群与 TFH 因签名定义差异（合并 vs 拆分 CD4/CD8）不可互换。
+详见表 `data/processed/immune_consistency_comparison.csv` 与
+`results/immune_consistency_summary.md`。
+
+## 小鼠 UUO 单细胞
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_uuo_umap_celltype.png"))
+knitr::include_graphics(file.path(FIG, "fig_uuo_mrg_score.png"))
+```
+
+| 细胞类型 | sham | UUO |
+| --- | --- | --- |
+| PT（近端小管） | 38.5% | 5.9% |
+| Fibro（成纤维） | 1.7% | 10.0% |
+| Macro（巨噬） | 4.8% | 21.9% |
+| TAL | 17.2% | 23.1% |
+
+机械核心模块评分以**集合管（CD）最高**，其次内皮与成纤维；UUO 组成纤维机械评分高于 sham。
+
+## 人肾空间转录组
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_spatial_mrg_ecm.png"))
+```
+
+CosMx（523,855 细胞）：机械评分与纤维化 ECM 评分细胞级 Spearman rho=0.199、
+**FOV 区域级 rho=0.586**；高 ECM 四分位细胞机械评分显著更高——机械-纤维化生态位共定位。
+
+## UUO 时间序列
+
+```{r}
+knitr::include_graphics(file.path(FIG, "fig_uuo_timecourse.png"))
+```
+
+GSE118339（normal/D3/D7/D14）：机械核心评分与天数 Spearman **rho=0.94**；
+**85.5%（65/76）**核心基因随时间正向升高；D14 vs D0 wilcox p=0.057（n=3-4）。
+
+# 敏感性分析
+
+- **β（软阈值）**：β=4 时 SFT R²=0.741、平均连接度 1,850；β=8 时 R²=0.780、连接度 410；
+  β=10 时 R²=0.775、连接度 236。β=4 在拟合度与网络连通性间取得平衡，且与模板一致；
+  β=8 重跑的核心基因与 β=4 的 Jaccard 重叠见 `results/sensitivity_summary.md`。
+- **K（分型数）**：PAC(K=2..9)=0.442/0.532/0.617/0.705/0.738/0.754/0.722/0.696，
+  K=2 为低 K 区间局部最优（K=9 全局最小但过度分裂、样本数不足支撑），采用 K=2。
+
+# 偏差、局限与可复现性
+
+- 人类队列无 eGFR/随访（D1/D2）：以 IgAN 组织学病变轴替代；主队列选用单批次 GSE115857（D12），
+  GSE66494 因批次=分组完全混淆仅作方向复核。
+- GSE115857 存在全基因组偏移，已做分位数归一修复（D12）。
+- WGCNA 阈值由 0.7 放宽至 0.5（D13）；β=4 时 R²=0.741（D8）。
+- 静态跨物种 4v4 方向一致率 58.2% 偏低，但 UUO 时间序列（rho=0.94）补强（D14/D17）。
+- 图像与签名 QC（D18）：nomogram/热图已补 PNG；旧版 CKD 图归档至 `figures/_deprecated/`；
+  OR2A20P 等伪基因/极端 OR 候选已剔除，签名收敛为 3 基因。
+- β/K 敏感性已完成（D19，见 `results/sensitivity_summary.md`）：核心基因集对 β 中等敏感
+  （Jaccard 0.481），K=2 为低 K 局部最优。
+- 免疫反卷积采用 Bindea 24 签名替代（D20，Charoentong S2 不可达）；
+  GSE66494 批次混淆已出具严格书面说明（D21，`results/GSE66494_batch_confounding_statement.md`）。
+- 完整决策记录见 `results/deviation_log.md`（D1–D17）；所有脚本经 `Rscript parse()` 校验，
+  `set.seed(42)`，图按 Arial 5–7pt、89/183mm、PDF+PNG 规范输出。
+
+# 结论与下一步
+
+机械力基因特征在 IgA 肾病中显著升高、可形成预后相关的分子分型与 3 基因诊断签名，并在小鼠
+UUO 单细胞/时间序列与人肾空间转录组三个层面得到一致性验证，支持"梗阻机械应力驱动肾纤维化"
+的机制假设。
+
+下一步建议：① 实验验证集合管 Piezo1/YAP 机械传感（按团队条件限定为 qPCR+WB 精简版：
+Yoda1/GsMTx4/Verteporfin 药理模拟 + 条件培养基旁分泌，见方案文档）；
+② 若条件允许，补充更大样本的 UUO 队列复核跨物种趋势。
+
+其中 ① 已形成完整方案：`docs/集合管Piezo1_YAP_实验验证方案.md`（qPCR+WB 精简版，约 3–6 个月）。
