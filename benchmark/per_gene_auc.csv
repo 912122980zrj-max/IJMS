@@ -1,0 +1,4 @@
+gene,AUC,direction,n_iga,n_ctrl
+NDNF,0.786667,down,55,30
+PCDHB7,0.769091,up,55,30
+RRAGB,0.735152,down,55,30
