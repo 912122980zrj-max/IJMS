@@ -1,0 +1,505 @@
+category,GO_term,gene
+MS,Rho protein signal transduction,ABCA1
+MS,Rho protein signal transduction,ABL1
+MS,Rho protein signal transduction,ABL2
+MS,Rho protein signal transduction,ABRA
+MS,Rho protein signal transduction,ADGRG1
+MS,Rho protein signal transduction,ADRA2A
+MS,Rho protein signal transduction,AGTR1
+MS,Rho protein signal transduction,AKAP13
+MS,Rho protein signal transduction,APOA1
+MS,Rho protein signal transduction,APOC3
+MS,Rho protein signal transduction,APOE
+MS,Rho protein signal transduction,ARHGAP1
+MS,Rho protein signal transduction,ARHGAP20
+MS,Rho protein signal transduction,ARHGAP29
+MS,Rho protein signal transduction,ARHGAP35
+MS,Rho protein signal transduction,ARHGAP4
+MS,Rho protein signal transduction,ARHGAP42
+MS,Rho protein signal transduction,ARHGAP5
+MS,Rho protein signal transduction,ARHGAP6
+MS,Rho protein signal transduction,ARHGDIA
+MS,Rho protein signal transduction,ARHGDIB
+MS,Rho protein signal transduction,ARHGDIG
+MS,Rho protein signal transduction,ARHGEF1
+MS,Rho protein signal transduction,ARHGEF11
+MS,Rho protein signal transduction,ARHGEF12
+MS,Rho protein signal transduction,ARHGEF18
+MS,Rho protein signal transduction,ARHGEF2
+MS,Rho protein signal transduction,ARHGEF28
+MS,Rho protein signal transduction,ARHGEF3
+MS,Rho protein signal transduction,ARHGEF7
+MS,Rho protein signal transduction,ARRB1
+MS,Rho protein signal transduction,BCL6
+MS,Rho protein signal transduction,BCR
+MS,Rho protein signal transduction,C15orf62
+MS,Rho protein signal transduction,CCDC125
+MS,Rho protein signal transduction,CDC42
+MS,Rho protein signal transduction,CDC42EP1
+MS,Rho protein signal transduction,CDC42EP2
+MS,Rho protein signal transduction,CDC42EP3
+MS,Rho protein signal transduction,CDC42EP4
+MS,Rho protein signal transduction,CDC42EP5
+MS,Rho protein signal transduction,CDC42SE1
+MS,Rho protein signal transduction,CDC42SE2
+MS,Rho protein signal transduction,CDH13
+MS,Rho protein signal transduction,CELSR1
+MS,Rho protein signal transduction,CFL1
+MS,Rho protein signal transduction,CHUK
+MS,Rho protein signal transduction,COL1A2
+MS,Rho protein signal transduction,COL3A1
+MS,Rho protein signal transduction,CSNK1A1
+MS,Rho protein signal transduction,CTNNAL1
+MS,Rho protein signal transduction,CUL3
+MS,Rho protein signal transduction,DLC1
+MS,Rho protein signal transduction,EPS8
+MS,Rho protein signal transduction,EPS8L1
+MS,Rho protein signal transduction,EPS8L2
+MS,Rho protein signal transduction,EPS8L3
+MS,Rho protein signal transduction,ERBB2
+MS,Rho protein signal transduction,F11R
+MS,Rho protein signal transduction,F2R
+MS,Rho protein signal transduction,F2RL1
+MS,Rho protein signal transduction,F2RL2
+MS,Rho protein signal transduction,F2RL3
+MS,Rho protein signal transduction,FLCN
+MS,Rho protein signal transduction,FLOT1
+MS,Rho protein signal transduction,GNA12
+MS,Rho protein signal transduction,GNA13
+MS,Rho protein signal transduction,GPR17
+MS,Rho protein signal transduction,GPR174
+MS,Rho protein signal transduction,GPR18
+MS,Rho protein signal transduction,GPR199P
+MS,Rho protein signal transduction,GPR20
+MS,Rho protein signal transduction,GPR35
+MS,Rho protein signal transduction,GPR4
+MS,Rho protein signal transduction,GPR55
+MS,Rho protein signal transduction,GPR65
+MS,Rho protein signal transduction,HACD3
+MS,Rho protein signal transduction,HEG1
+MS,Rho protein signal transduction,ITGA3
+MS,Rho protein signal transduction,ITGB1
+MS,Rho protein signal transduction,KANK1
+MS,Rho protein signal transduction,KANK2
+MS,Rho protein signal transduction,KCTD10
+MS,Rho protein signal transduction,KCTD13
+MS,Rho protein signal transduction,LIMK1
+MS,Rho protein signal transduction,LPAR1
+MS,Rho protein signal transduction,LPAR2
+MS,Rho protein signal transduction,LPAR4
+MS,Rho protein signal transduction,LPAR6
+MS,Rho protein signal transduction,LRRK2
+MS,Rho protein signal transduction,MCF2L
+MS,Rho protein signal transduction,MET
+MS,Rho protein signal transduction,MIR223
+MS,Rho protein signal transduction,MYO9B
+MS,Rho protein signal transduction,MYOC
+MS,Rho protein signal transduction,NET1
+MS,Rho protein signal transduction,NGFR
+MS,Rho protein signal transduction,NRP1
+MS,Rho protein signal transduction,NTN1
+MS,Rho protein signal transduction,OPHN1
+MS,Rho protein signal transduction,P2RY10
+MS,Rho protein signal transduction,P2RY8
+MS,Rho protein signal transduction,PDPN
+MS,Rho protein signal transduction,PHACTR4
+MS,Rho protein signal transduction,PLEKHG5
+MS,Rho protein signal transduction,PLEKHG7
+MS,Rho protein signal transduction,PLXNB1
+MS,Rho protein signal transduction,PRAG1
+MS,Rho protein signal transduction,PTH
+MS,Rho protein signal transduction,RAC1
+MS,Rho protein signal transduction,RACGAP1
+MS,Rho protein signal transduction,RAF1
+MS,Rho protein signal transduction,RALBP1
+MS,Rho protein signal transduction,RASIP1
+MS,Rho protein signal transduction,RHOA
+MS,Rho protein signal transduction,RHOB
+MS,Rho protein signal transduction,RHOBTB1
+MS,Rho protein signal transduction,RHOBTB2
+MS,Rho protein signal transduction,RHOD
+MS,Rho protein signal transduction,RHOG
+MS,Rho protein signal transduction,RHOJ
+MS,Rho protein signal transduction,RHOU
+MS,Rho protein signal transduction,RHOV
+MS,Rho protein signal transduction,RIPOR1
+MS,Rho protein signal transduction,RIPOR2
+MS,Rho protein signal transduction,RIT2
+MS,Rho protein signal transduction,ROBO1
+MS,Rho protein signal transduction,ROCK1
+MS,Rho protein signal transduction,ROCK2
+MS,Rho protein signal transduction,ROPN1B
+MS,Rho protein signal transduction,RTKN
+MS,Rho protein signal transduction,RTN4R
+MS,Rho protein signal transduction,SCAI
+MS,Rho protein signal transduction,SEMA4D
+MS,Rho protein signal transduction,SHTN1
+MS,Rho protein signal transduction,STARD13
+MS,Rho protein signal transduction,STARD8
+MS,Rho protein signal transduction,STMN1
+MS,Rho protein signal transduction,SYNJ2BP
+MS,Rho protein signal transduction,SYNPO2L
+MS,Rho protein signal transduction,TAGAP
+MS,Rho protein signal transduction,TAX1BP3
+MS,Rho protein signal transduction,TEK
+MS,Rho protein signal transduction,TNFAIP1
+MS,Rho protein signal transduction,WAS
+MS,Response to mechanical stimulus,ABHD12
+MS,Response to mechanical stimulus,ACTA1
+MS,Response to mechanical stimulus,ADGRV1
+MS,Response to mechanical stimulus,ANGPT2
+MS,Response to mechanical stimulus,ANKRD1
+MS,Response to mechanical stimulus,ANKRD23
+MS,Response to mechanical stimulus,ANO3
+MS,Response to mechanical stimulus,AQP1
+MS,Response to mechanical stimulus,ASIC2
+MS,Response to mechanical stimulus,ASIC3
+MS,Response to mechanical stimulus,ATAT1
+MS,Response to mechanical stimulus,ATOH7
+MS,Response to mechanical stimulus,ATP1A2
+MS,Response to mechanical stimulus,ATP8A2
+MS,Response to mechanical stimulus,ATR
+MS,Response to mechanical stimulus,BACE1
+MS,Response to mechanical stimulus,BAD
+MS,Response to mechanical stimulus,BAG3
+MS,Response to mechanical stimulus,BAK1
+MS,Response to mechanical stimulus,BCL10
+MS,Response to mechanical stimulus,BDKRB1
+MS,Response to mechanical stimulus,BGLAP
+MS,Response to mechanical stimulus,BMP6
+MS,Response to mechanical stimulus,BNIP3
+MS,Response to mechanical stimulus,BTG2
+MS,Response to mechanical stimulus,CAPN2
+MS,Response to mechanical stimulus,CASP1
+MS,Response to mechanical stimulus,CASP2
+MS,Response to mechanical stimulus,CASP5
+MS,Response to mechanical stimulus,CASP8
+MS,Response to mechanical stimulus,CASP8AP2
+MS,Response to mechanical stimulus,CAV3
+MS,Response to mechanical stimulus,CD40
+MS,Response to mechanical stimulus,CDH2
+MS,Response to mechanical stimulus,CHEK1
+MS,Response to mechanical stimulus,CHI3L1
+MS,Response to mechanical stimulus,CHRNA10
+MS,Response to mechanical stimulus,CHRNA9
+MS,Response to mechanical stimulus,CITED2
+MS,Response to mechanical stimulus,CLCN6
+MS,Response to mechanical stimulus,CNN2
+MS,Response to mechanical stimulus,CNTNAP2
+MS,Response to mechanical stimulus,COL11A1
+MS,Response to mechanical stimulus,COL1A1
+MS,Response to mechanical stimulus,COL6A1
+MS,Response to mechanical stimulus,CRADD
+MS,Response to mechanical stimulus,CSRP3
+MS,Response to mechanical stimulus,CTNNB1
+MS,Response to mechanical stimulus,CXCL10
+MS,Response to mechanical stimulus,CXCL12
+MS,Response to mechanical stimulus,CXCR4
+MS,Response to mechanical stimulus,DAG1
+MS,Response to mechanical stimulus,DCANP1
+MS,Response to mechanical stimulus,DDR2
+MS,Response to mechanical stimulus,DMD
+MS,Response to mechanical stimulus,DRD2
+MS,Response to mechanical stimulus,EDN1
+MS,Response to mechanical stimulus,EGFR
+MS,Response to mechanical stimulus,ENG
+MS,Response to mechanical stimulus,ETV1
+MS,Response to mechanical stimulus,F11R
+MS,Response to mechanical stimulus,FADD
+MS,Response to mechanical stimulus,FAS
+MS,Response to mechanical stimulus,FGF2
+MS,Response to mechanical stimulus,FOS
+MS,Response to mechanical stimulus,FOSB
+MS,Response to mechanical stimulus,FOSL1
+MS,Response to mechanical stimulus,FYN
+MS,Response to mechanical stimulus,GADD45A
+MS,Response to mechanical stimulus,GATA4
+MS,Response to mechanical stimulus,GCLC
+MS,Response to mechanical stimulus,GDF5
+MS,Response to mechanical stimulus,GPI
+MS,Response to mechanical stimulus,GSN
+MS,Response to mechanical stimulus,HABP4
+MS,Response to mechanical stimulus,HPN
+MS,Response to mechanical stimulus,HTR2A
+MS,Response to mechanical stimulus,HTT
+MS,Response to mechanical stimulus,IGF1R
+MS,Response to mechanical stimulus,IGFBP2
+MS,Response to mechanical stimulus,IHH
+MS,Response to mechanical stimulus,IL13
+MS,Response to mechanical stimulus,IL1B
+MS,Response to mechanical stimulus,IL33
+MS,Response to mechanical stimulus,IRF1
+MS,Response to mechanical stimulus,ITGA2
+MS,Response to mechanical stimulus,ITGAM
+MS,Response to mechanical stimulus,ITGB3
+MS,Response to mechanical stimulus,JUP
+MS,Response to mechanical stimulus,KCNA1
+MS,Response to mechanical stimulus,KCNA5
+MS,Response to mechanical stimulus,KCNC1
+MS,Response to mechanical stimulus,KCNJ2
+MS,Response to mechanical stimulus,KCNK2
+MS,Response to mechanical stimulus,KCNK4
+MS,Response to mechanical stimulus,KCNQ1
+MS,Response to mechanical stimulus,KCNQ3
+MS,Response to mechanical stimulus,KIAA0319
+MS,Response to mechanical stimulus,KIT
+MS,Response to mechanical stimulus,KRT5
+MS,Response to mechanical stimulus,LARGE1
+MS,Response to mechanical stimulus,LHFPL5
+MS,Response to mechanical stimulus,LRP11
+MS,Response to mechanical stimulus,LTBR
+MS,Response to mechanical stimulus,MAG
+MS,Response to mechanical stimulus,MAP1B
+MS,Response to mechanical stimulus,MAP2K4
+MS,Response to mechanical stimulus,MAP3K1
+MS,Response to mechanical stimulus,MAP3K14
+MS,Response to mechanical stimulus,MAP3K2
+MS,Response to mechanical stimulus,MAPK14
+MS,Response to mechanical stimulus,MAPK3
+MS,Response to mechanical stimulus,MAPK8
+MS,Response to mechanical stimulus,MDK
+MS,Response to mechanical stimulus,MEIS2
+MS,Response to mechanical stimulus,MKKS
+MS,Response to mechanical stimulus,MMP14
+MS,Response to mechanical stimulus,MMP2
+MS,Response to mechanical stimulus,MPO
+MS,Response to mechanical stimulus,MTPN
+MS,Response to mechanical stimulus,MYD88
+MS,Response to mechanical stimulus,NEUROG1
+MS,Response to mechanical stimulus,NFKB1
+MS,Response to mechanical stimulus,NFKBIA
+MS,Response to mechanical stimulus,NPPA
+MS,Response to mechanical stimulus,NRXN1
+MS,Response to mechanical stimulus,NRXN2
+MS,Response to mechanical stimulus,NTRK1
+MS,Response to mechanical stimulus,P2RX3
+MS,Response to mechanical stimulus,P2RX7
+MS,Response to mechanical stimulus,P2RY1
+MS,Response to mechanical stimulus,PDE2A
+MS,Response to mechanical stimulus,PDZD7
+MS,Response to mechanical stimulus,PHF24
+MS,Response to mechanical stimulus,PIEZO1
+MS,Response to mechanical stimulus,PIEZO2
+MS,Response to mechanical stimulus,PIK3CA
+MS,Response to mechanical stimulus,PJVK
+MS,Response to mechanical stimulus,PKD1
+MS,Response to mechanical stimulus,PKD1L1
+MS,Response to mechanical stimulus,PKD1L2
+MS,Response to mechanical stimulus,PKD1L3
+MS,Response to mechanical stimulus,PKD2
+MS,Response to mechanical stimulus,PKD2L1
+MS,Response to mechanical stimulus,PKD2L2
+MS,Response to mechanical stimulus,PKDREJ
+MS,Response to mechanical stimulus,PLEC
+MS,Response to mechanical stimulus,POSTN
+MS,Response to mechanical stimulus,PPL
+MS,Response to mechanical stimulus,PSPH
+MS,Response to mechanical stimulus,PTCH1
+MS,Response to mechanical stimulus,PTGER4
+MS,Response to mechanical stimulus,PTGS2
+MS,Response to mechanical stimulus,PTK2
+MS,Response to mechanical stimulus,PTK2B
+MS,Response to mechanical stimulus,PTN
+MS,Response to mechanical stimulus,RAF1
+MS,Response to mechanical stimulus,RELA
+MS,Response to mechanical stimulus,RETN
+MS,Response to mechanical stimulus,RPS6KB1
+MS,Response to mechanical stimulus,RYR2
+MS,Response to mechanical stimulus,SCEL
+MS,Response to mechanical stimulus,SCN11A
+MS,Response to mechanical stimulus,SCN1A
+MS,Response to mechanical stimulus,SCN9A
+MS,Response to mechanical stimulus,SCX
+MS,Response to mechanical stimulus,SERPINE2
+MS,Response to mechanical stimulus,SHANK3
+MS,Response to mechanical stimulus,SLC1A3
+MS,Response to mechanical stimulus,SLC26A5
+MS,Response to mechanical stimulus,SLC2A1
+MS,Response to mechanical stimulus,SLC38A2
+MS,Response to mechanical stimulus,SLC8A1
+MS,Response to mechanical stimulus,SLC9A1
+MS,Response to mechanical stimulus,SLITRK6
+MS,Response to mechanical stimulus,SOST
+MS,Response to mechanical stimulus,SOX9
+MS,Response to mechanical stimulus,SRC
+MS,Response to mechanical stimulus,STAT1
+MS,Response to mechanical stimulus,STRA6
+MS,Response to mechanical stimulus,STRBP
+MS,Response to mechanical stimulus,STRC
+MS,Response to mechanical stimulus,SUN1
+MS,Response to mechanical stimulus,TACR1
+MS,Response to mechanical stimulus,TCAP
+MS,Response to mechanical stimulus,THBS1
+MS,Response to mechanical stimulus,TIFAB
+MS,Response to mechanical stimulus,TLR3
+MS,Response to mechanical stimulus,TLR4
+MS,Response to mechanical stimulus,TLR5
+MS,Response to mechanical stimulus,TLR7
+MS,Response to mechanical stimulus,TLR8
+MS,Response to mechanical stimulus,TMC1
+MS,Response to mechanical stimulus,TMC2
+MS,Response to mechanical stimulus,TMEM120A
+MS,Response to mechanical stimulus,TMEM150C
+MS,Response to mechanical stimulus,TMEM87A
+MS,Response to mechanical stimulus,TNC
+MS,Response to mechanical stimulus,TNF
+MS,Response to mechanical stimulus,TNFRSF10A
+MS,Response to mechanical stimulus,TNFRSF10B
+MS,Response to mechanical stimulus,TNFRSF11A
+MS,Response to mechanical stimulus,TNFRSF1A
+MS,Response to mechanical stimulus,TNFRSF8
+MS,Response to mechanical stimulus,TNFSF14
+MS,Response to mechanical stimulus,TRPA1
+MS,Response to mechanical stimulus,TRPV4
+MS,Response to mechanical stimulus,TTN
+MS,Response to mechanical stimulus,TUBA1A
+MS,Response to mechanical stimulus,TXNIP
+MS,Response to mechanical stimulus,UCN
+MS,Response to mechanical stimulus,USP53
+MS,Response to mechanical stimulus,WHRN
+MS,Response to mechanical stimulus,WNT11
+MS,Response to mechanical stimulus,XPA
+MS,Response to mechanical stimulus,XPC
+MS,Integrin activation,CDH17
+MS,Integrin activation,COL16A1
+MS,Integrin activation,CX3CL1
+MS,Integrin activation,CXCL12
+MS,Integrin activation,CXCL13
+MS,Integrin activation,FARP2
+MS,Integrin activation,FBLIM1
+MS,Integrin activation,FERMT1
+MS,Integrin activation,FERMT2
+MS,Integrin activation,FERMT3
+MS,Integrin activation,FN1
+MS,Integrin activation,ITGB1BP1
+MS,Integrin activation,JAM3
+MS,Integrin activation,KIF14
+MS,Integrin activation,KRIT1
+MS,Integrin activation,MZB1
+MS,Integrin activation,P2RY12
+MS,Integrin activation,PIEZO1
+MS,Integrin activation,PLEK
+MS,Integrin activation,PTGER4
+MS,Integrin activation,RAP1B
+MS,Integrin activation,RASIP1
+MS,Integrin activation,SELP
+MS,Integrin activation,SKAP1
+MS,Integrin activation,SRC
+MS,Integrin activation,TLN1
+MS,Hippo signaling,AJUBA
+MS,Hippo signaling,AMOT
+MS,Hippo signaling,AMOTL1
+MS,Hippo signaling,AMOTL2
+MS,Hippo signaling,ARRDC3
+MS,Hippo signaling,CIT
+MS,Hippo signaling,CORO7
+MS,Hippo signaling,DCHS1
+MS,Hippo signaling,DLG5
+MS,Hippo signaling,FAT4
+MS,Hippo signaling,FRMD1
+MS,Hippo signaling,FRMD6
+MS,Hippo signaling,IQCJ-SCHIP1
+MS,Hippo signaling,LATS1
+MS,Hippo signaling,LATS2
+MS,Hippo signaling,LIMD1
+MS,Hippo signaling,MAP2K3
+MS,Hippo signaling,MAPK14
+MS,Hippo signaling,MARK3
+MS,Hippo signaling,MOB1A
+MS,Hippo signaling,MOB1B
+MS,Hippo signaling,MOB3B
+MS,Hippo signaling,NEK8
+MS,Hippo signaling,NF2
+MS,Hippo signaling,NUAK2
+MS,Hippo signaling,SAV1
+MS,Hippo signaling,SCHIP1
+MS,Hippo signaling,SHANK2
+MS,Hippo signaling,SOX11
+MS,Hippo signaling,SRC
+MS,Hippo signaling,STK3
+MS,Hippo signaling,STK4
+MS,Hippo signaling,TEAD1
+MS,Hippo signaling,TEAD2
+MS,Hippo signaling,TEAD3
+MS,Hippo signaling,TEAD4
+MS,Hippo signaling,TIAL1
+MS,Hippo signaling,VGLL4
+MS,Hippo signaling,WTIP
+MS,Hippo signaling,WWC1
+MS,Hippo signaling,WWC2
+MS,Hippo signaling,WWC3
+MS,Hippo signaling,WWTR1
+MS,Hippo signaling,YAP1
+MS,Cellular response to mechanical stimulus,ANKRD1
+MS,Cellular response to mechanical stimulus,AQP1
+MS,Cellular response to mechanical stimulus,ATP1A2
+MS,Cellular response to mechanical stimulus,BAD
+MS,Cellular response to mechanical stimulus,BAG3
+MS,Cellular response to mechanical stimulus,BAK1
+MS,Cellular response to mechanical stimulus,BCL10
+MS,Cellular response to mechanical stimulus,BMP6
+MS,Cellular response to mechanical stimulus,BNIP3
+MS,Cellular response to mechanical stimulus,CASP1
+MS,Cellular response to mechanical stimulus,CASP2
+MS,Cellular response to mechanical stimulus,CASP5
+MS,Cellular response to mechanical stimulus,CASP8
+MS,Cellular response to mechanical stimulus,CASP8AP2
+MS,Cellular response to mechanical stimulus,CD40
+MS,Cellular response to mechanical stimulus,CHEK1
+MS,Cellular response to mechanical stimulus,CNN2
+MS,Cellular response to mechanical stimulus,COL1A1
+MS,Cellular response to mechanical stimulus,CRADD
+MS,Cellular response to mechanical stimulus,DAG1
+MS,Cellular response to mechanical stimulus,EGFR
+MS,Cellular response to mechanical stimulus,ENG
+MS,Cellular response to mechanical stimulus,F11R
+MS,Cellular response to mechanical stimulus,FADD
+MS,Cellular response to mechanical stimulus,FAS
+MS,Cellular response to mechanical stimulus,FGF2
+MS,Cellular response to mechanical stimulus,GADD45A
+MS,Cellular response to mechanical stimulus,GCLC
+MS,Cellular response to mechanical stimulus,HABP4
+MS,Cellular response to mechanical stimulus,IGF1R
+MS,Cellular response to mechanical stimulus,IL13
+MS,Cellular response to mechanical stimulus,IL1B
+MS,Cellular response to mechanical stimulus,IL33
+MS,Cellular response to mechanical stimulus,IRF1
+MS,Cellular response to mechanical stimulus,ITGA2
+MS,Cellular response to mechanical stimulus,ITGB3
+MS,Cellular response to mechanical stimulus,KCNJ2
+MS,Cellular response to mechanical stimulus,KCNK4
+MS,Cellular response to mechanical stimulus,LTBR
+MS,Cellular response to mechanical stimulus,MAG
+MS,Cellular response to mechanical stimulus,MAP2K4
+MS,Cellular response to mechanical stimulus,MAP3K1
+MS,Cellular response to mechanical stimulus,MAP3K14
+MS,Cellular response to mechanical stimulus,MAP3K2
+MS,Cellular response to mechanical stimulus,MAPK3
+MS,Cellular response to mechanical stimulus,MAPK8
+MS,Cellular response to mechanical stimulus,MTPN
+MS,Cellular response to mechanical stimulus,MYD88
+MS,Cellular response to mechanical stimulus,NFKB1
+MS,Cellular response to mechanical stimulus,PDE2A
+MS,Cellular response to mechanical stimulus,PIEZO1
+MS,Cellular response to mechanical stimulus,PIEZO2
+MS,Cellular response to mechanical stimulus,PLEC
+MS,Cellular response to mechanical stimulus,PTGER4
+MS,Cellular response to mechanical stimulus,PTGS2
+MS,Cellular response to mechanical stimulus,SCX
+MS,Cellular response to mechanical stimulus,SLC2A1
+MS,Cellular response to mechanical stimulus,SLC38A2
+MS,Cellular response to mechanical stimulus,SLC9A1
+MS,Cellular response to mechanical stimulus,SOX9
+MS,Cellular response to mechanical stimulus,TLR3
+MS,Cellular response to mechanical stimulus,TLR4
+MS,Cellular response to mechanical stimulus,TLR5
+MS,Cellular response to mechanical stimulus,TLR7
+MS,Cellular response to mechanical stimulus,TLR8
+MS,Cellular response to mechanical stimulus,TMEM150C
+MS,Cellular response to mechanical stimulus,TMEM87A
+MS,Cellular response to mechanical stimulus,TNFRSF10A
+MS,Cellular response to mechanical stimulus,TNFRSF10B
+MS,Cellular response to mechanical stimulus,TNFRSF1A
+MS,Cellular response to mechanical stimulus,TNFRSF8
+MS,Cellular response to mechanical stimulus,TNFSF14
+MS,Cellular response to mechanical stimulus,WNT11

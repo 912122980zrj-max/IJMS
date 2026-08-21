@@ -1,0 +1,1489 @@
+category,GO_term,gene
+MM,Extracellular matrix disassembly,ADAM10
+MM,Extracellular matrix disassembly,ADAM15
+MM,Extracellular matrix disassembly,ADAM8
+MM,Extracellular matrix disassembly,ADAMTS15
+MM,Extracellular matrix disassembly,ADAMTS4
+MM,Extracellular matrix disassembly,ADAMTS5
+MM,Extracellular matrix disassembly,CARMIL2
+MM,Extracellular matrix disassembly,CLASP1
+MM,Extracellular matrix disassembly,CLASP2
+MM,Extracellular matrix disassembly,CMA1
+MM,Extracellular matrix disassembly,CST3
+MM,Extracellular matrix disassembly,CTSG
+MM,Extracellular matrix disassembly,CTSK
+MM,Extracellular matrix disassembly,CTSS
+MM,Extracellular matrix disassembly,CTSV
+MM,Extracellular matrix disassembly,DDR1
+MM,Extracellular matrix disassembly,DDR2
+MM,Extracellular matrix disassembly,DPP4
+MM,Extracellular matrix disassembly,ELANE
+MM,Extracellular matrix disassembly,EXOC8
+MM,Extracellular matrix disassembly,FAP
+MM,Extracellular matrix disassembly,FGFR4
+MM,Extracellular matrix disassembly,FLOT1
+MM,Extracellular matrix disassembly,FSCN1
+MM,Extracellular matrix disassembly,FURIN
+MM,Extracellular matrix disassembly,HPN
+MM,Extracellular matrix disassembly,IL6
+MM,Extracellular matrix disassembly,KIF9
+MM,Extracellular matrix disassembly,KLK4
+MM,Extracellular matrix disassembly,KLK5
+MM,Extracellular matrix disassembly,KLK7
+MM,Extracellular matrix disassembly,LAMC1
+MM,Extracellular matrix disassembly,LCP1
+MM,Extracellular matrix disassembly,LRP1
+MM,Extracellular matrix disassembly,MELTF
+MM,Extracellular matrix disassembly,MIR195
+MM,Extracellular matrix disassembly,MIR29B1
+MM,Extracellular matrix disassembly,MIR98
+MM,Extracellular matrix disassembly,MMP1
+MM,Extracellular matrix disassembly,MMP10
+MM,Extracellular matrix disassembly,MMP11
+MM,Extracellular matrix disassembly,MMP12
+MM,Extracellular matrix disassembly,MMP13
+MM,Extracellular matrix disassembly,MMP14
+MM,Extracellular matrix disassembly,MMP15
+MM,Extracellular matrix disassembly,MMP19
+MM,Extracellular matrix disassembly,MMP2
+MM,Extracellular matrix disassembly,MMP20
+MM,Extracellular matrix disassembly,MMP3
+MM,Extracellular matrix disassembly,MMP7
+MM,Extracellular matrix disassembly,MMP8
+MM,Extracellular matrix disassembly,MMP9
+MM,Extracellular matrix disassembly,NOXO1
+MM,Extracellular matrix disassembly,PBXIP1
+MM,Extracellular matrix disassembly,PDPN
+MM,Extracellular matrix disassembly,PLG
+MM,Extracellular matrix disassembly,PRSS1
+MM,Extracellular matrix disassembly,PRSS2
+MM,Extracellular matrix disassembly,SH3PXD2B
+MM,Extracellular matrix disassembly,TGFB1
+MM,Extracellular matrix disassembly,TMPRSS6
+MM,Extracellular matrix disassembly,TPSAB1
+MM,Extracellular matrix disassembly,WASHC1
+MM,Extracellular matrix disassembly,WDR72
+MM,Extracellular matrix organization,ABI3BP
+MM,Extracellular matrix organization,ABL1
+MM,Extracellular matrix organization,ADAM10
+MM,Extracellular matrix organization,ADAM15
+MM,Extracellular matrix organization,ADAM8
+MM,Extracellular matrix organization,ADAMTS1
+MM,Extracellular matrix organization,ADAMTS10
+MM,Extracellular matrix organization,ADAMTS12
+MM,Extracellular matrix organization,ADAMTS13
+MM,Extracellular matrix organization,ADAMTS14
+MM,Extracellular matrix organization,ADAMTS15
+MM,Extracellular matrix organization,ADAMTS16
+MM,Extracellular matrix organization,ADAMTS17
+MM,Extracellular matrix organization,ADAMTS18
+MM,Extracellular matrix organization,ADAMTS19
+MM,Extracellular matrix organization,ADAMTS2
+MM,Extracellular matrix organization,ADAMTS20
+MM,Extracellular matrix organization,ADAMTS3
+MM,Extracellular matrix organization,ADAMTS4
+MM,Extracellular matrix organization,ADAMTS5
+MM,Extracellular matrix organization,ADAMTS6
+MM,Extracellular matrix organization,ADAMTS7
+MM,Extracellular matrix organization,ADAMTS8
+MM,Extracellular matrix organization,ADAMTS9
+MM,Extracellular matrix organization,ADAMTSL1
+MM,Extracellular matrix organization,ADAMTSL2
+MM,Extracellular matrix organization,ADAMTSL3
+MM,Extracellular matrix organization,ADAMTSL4
+MM,Extracellular matrix organization,ADAMTSL5
+MM,Extracellular matrix organization,ADTRP
+MM,Extracellular matrix organization,AEBP1
+MM,Extracellular matrix organization,AGT
+MM,Extracellular matrix organization,ANGPTL7
+MM,Extracellular matrix organization,ANTXR1
+MM,Extracellular matrix organization,ANXA2
+MM,Extracellular matrix organization,APBB2
+MM,Extracellular matrix organization,APLP1
+MM,Extracellular matrix organization,APP
+MM,Extracellular matrix organization,ATP7A
+MM,Extracellular matrix organization,ATXN1L
+MM,Extracellular matrix organization,AXIN2
+MM,Extracellular matrix organization,B4GALT1
+MM,Extracellular matrix organization,BCL3
+MM,Extracellular matrix organization,BMP1
+MM,Extracellular matrix organization,BMP2
+MM,Extracellular matrix organization,C6orf15
+MM,Extracellular matrix organization,CARMIL2
+MM,Extracellular matrix organization,CAV1
+MM,Extracellular matrix organization,CAV2
+MM,Extracellular matrix organization,CCDC80
+MM,Extracellular matrix organization,CCN1
+MM,Extracellular matrix organization,CFLAR
+MM,Extracellular matrix organization,CHADL
+MM,Extracellular matrix organization,CLASP1
+MM,Extracellular matrix organization,CLASP2
+MM,Extracellular matrix organization,CMA1
+MM,Extracellular matrix organization,COL10A1
+MM,Extracellular matrix organization,COL11A1
+MM,Extracellular matrix organization,COL11A2
+MM,Extracellular matrix organization,COL12A1
+MM,Extracellular matrix organization,COL13A1
+MM,Extracellular matrix organization,COL14A1
+MM,Extracellular matrix organization,COL15A1
+MM,Extracellular matrix organization,COL16A1
+MM,Extracellular matrix organization,COL17A1
+MM,Extracellular matrix organization,COL18A1
+MM,Extracellular matrix organization,COL19A1
+MM,Extracellular matrix organization,COL1A1
+MM,Extracellular matrix organization,COL1A2
+MM,Extracellular matrix organization,COL22A1
+MM,Extracellular matrix organization,COL23A1
+MM,Extracellular matrix organization,COL24A1
+MM,Extracellular matrix organization,COL27A1
+MM,Extracellular matrix organization,COL28A1
+MM,Extracellular matrix organization,COL2A1
+MM,Extracellular matrix organization,COL3A1
+MM,Extracellular matrix organization,COL4A1
+MM,Extracellular matrix organization,COL4A2
+MM,Extracellular matrix organization,COL4A3
+MM,Extracellular matrix organization,COL4A4
+MM,Extracellular matrix organization,COL4A5
+MM,Extracellular matrix organization,COL4A6
+MM,Extracellular matrix organization,COL5A1
+MM,Extracellular matrix organization,COL5A2
+MM,Extracellular matrix organization,COL5A3
+MM,Extracellular matrix organization,COL6A1
+MM,Extracellular matrix organization,COL7A1
+MM,Extracellular matrix organization,COL8A1
+MM,Extracellular matrix organization,COL8A2
+MM,Extracellular matrix organization,COL9A1
+MM,Extracellular matrix organization,COL9A2
+MM,Extracellular matrix organization,COL9A3
+MM,Extracellular matrix organization,COLGALT1
+MM,Extracellular matrix organization,COLGALT2
+MM,Extracellular matrix organization,COLQ
+MM,Extracellular matrix organization,COMP
+MM,Extracellular matrix organization,CPB2
+MM,Extracellular matrix organization,CREB3L1
+MM,Extracellular matrix organization,CRISPLD2
+MM,Extracellular matrix organization,CRTAP
+MM,Extracellular matrix organization,CSGALNACT1
+MM,Extracellular matrix organization,CST3
+MM,Extracellular matrix organization,CTSG
+MM,Extracellular matrix organization,CTSK
+MM,Extracellular matrix organization,CTSS
+MM,Extracellular matrix organization,CTSV
+MM,Extracellular matrix organization,CYP1B1
+MM,Extracellular matrix organization,DAG1
+MM,Extracellular matrix organization,DDR1
+MM,Extracellular matrix organization,DDR2
+MM,Extracellular matrix organization,DMP1
+MM,Extracellular matrix organization,DNAJB6
+MM,Extracellular matrix organization,DPP4
+MM,Extracellular matrix organization,DPT
+MM,Extracellular matrix organization,ECM2
+MM,Extracellular matrix organization,EFEMP2
+MM,Extracellular matrix organization,EGFL6
+MM,Extracellular matrix organization,EGFLAM
+MM,Extracellular matrix organization,ELANE
+MM,Extracellular matrix organization,ELF3
+MM,Extracellular matrix organization,ELN
+MM,Extracellular matrix organization,EMILIN1
+MM,Extracellular matrix organization,ENG
+MM,Extracellular matrix organization,ERCC2
+MM,Extracellular matrix organization,ERO1A
+MM,Extracellular matrix organization,EXOC8
+MM,Extracellular matrix organization,EXT1
+MM,Extracellular matrix organization,FAP
+MM,Extracellular matrix organization,FBLN1
+MM,Extracellular matrix organization,FBLN5
+MM,Extracellular matrix organization,FERMT1
+MM,Extracellular matrix organization,FGFR4
+MM,Extracellular matrix organization,FKBP10
+MM,Extracellular matrix organization,FKRP
+MM,Extracellular matrix organization,FLOT1
+MM,Extracellular matrix organization,FLRT2
+MM,Extracellular matrix organization,FMOD
+MM,Extracellular matrix organization,FOXC1
+MM,Extracellular matrix organization,FOXC2
+MM,Extracellular matrix organization,FOXF1
+MM,Extracellular matrix organization,FOXF2
+MM,Extracellular matrix organization,FSCN1
+MM,Extracellular matrix organization,FURIN
+MM,Extracellular matrix organization,GAS2
+MM,Extracellular matrix organization,GAS6
+MM,Extracellular matrix organization,GFAP
+MM,Extracellular matrix organization,GFOD2
+MM,Extracellular matrix organization,GPM6B
+MM,Extracellular matrix organization,GREM1
+MM,Extracellular matrix organization,HAPLN2
+MM,Extracellular matrix organization,HAS1
+MM,Extracellular matrix organization,HAS2
+MM,Extracellular matrix organization,HAS3
+MM,Extracellular matrix organization,HMCN1
+MM,Extracellular matrix organization,HPN
+MM,Extracellular matrix organization,HPSE2
+MM,Extracellular matrix organization,HSD17B12
+MM,Extracellular matrix organization,IBSP
+MM,Extracellular matrix organization,IER3IP1
+MM,Extracellular matrix organization,IHH
+MM,Extracellular matrix organization,IL6
+MM,Extracellular matrix organization,IMPG1
+MM,Extracellular matrix organization,IMPG2
+MM,Extracellular matrix organization,ITGA8
+MM,Extracellular matrix organization,ITGB1
+MM,Extracellular matrix organization,ITGB3
+MM,Extracellular matrix organization,KAZALD1
+MM,Extracellular matrix organization,KIF9
+MM,Extracellular matrix organization,KLK4
+MM,Extracellular matrix organization,KLK5
+MM,Extracellular matrix organization,KLK7
+MM,Extracellular matrix organization,LAMA1
+MM,Extracellular matrix organization,LAMA2
+MM,Extracellular matrix organization,LAMB1
+MM,Extracellular matrix organization,LAMB2
+MM,Extracellular matrix organization,LAMC1
+MM,Extracellular matrix organization,LARGE1
+MM,Extracellular matrix organization,LCP1
+MM,Extracellular matrix organization,LOX
+MM,Extracellular matrix organization,LOXL1
+MM,Extracellular matrix organization,LOXL2
+MM,Extracellular matrix organization,LOXL3
+MM,Extracellular matrix organization,LOXL4
+MM,Extracellular matrix organization,LRP1
+MM,Extracellular matrix organization,LUM
+MM,Extracellular matrix organization,MAD2L2
+MM,Extracellular matrix organization,MANSC4
+MM,Extracellular matrix organization,MARCOL
+MM,Extracellular matrix organization,MATN1
+MM,Extracellular matrix organization,MATN2
+MM,Extracellular matrix organization,MATN3
+MM,Extracellular matrix organization,MATN4
+MM,Extracellular matrix organization,MELTF
+MM,Extracellular matrix organization,MFAP4
+MM,Extracellular matrix organization,MIA
+MM,Extracellular matrix organization,MIR145
+MM,Extracellular matrix organization,MIR18A
+MM,Extracellular matrix organization,MIR195
+MM,Extracellular matrix organization,MIR19A
+MM,Extracellular matrix organization,MIR19B1
+MM,Extracellular matrix organization,MIR27B
+MM,Extracellular matrix organization,MIR29B1
+MM,Extracellular matrix organization,MIR483
+MM,Extracellular matrix organization,MIR9-1
+MM,Extracellular matrix organization,MIR98
+MM,Extracellular matrix organization,MMP1
+MM,Extracellular matrix organization,MMP10
+MM,Extracellular matrix organization,MMP11
+MM,Extracellular matrix organization,MMP12
+MM,Extracellular matrix organization,MMP13
+MM,Extracellular matrix organization,MMP14
+MM,Extracellular matrix organization,MMP15
+MM,Extracellular matrix organization,MMP16
+MM,Extracellular matrix organization,MMP17
+MM,Extracellular matrix organization,MMP19
+MM,Extracellular matrix organization,MMP2
+MM,Extracellular matrix organization,MMP20
+MM,Extracellular matrix organization,MMP21
+MM,Extracellular matrix organization,MMP23B
+MM,Extracellular matrix organization,MMP24
+MM,Extracellular matrix organization,MMP25
+MM,Extracellular matrix organization,MMP26
+MM,Extracellular matrix organization,MMP27
+MM,Extracellular matrix organization,MMP28
+MM,Extracellular matrix organization,MMP3
+MM,Extracellular matrix organization,MMP7
+MM,Extracellular matrix organization,MMP8
+MM,Extracellular matrix organization,MMP9
+MM,Extracellular matrix organization,MPV17
+MM,Extracellular matrix organization,MPZL3
+MM,Extracellular matrix organization,MYF5
+MM,Extracellular matrix organization,MYH11
+MM,Extracellular matrix organization,MYO1E
+MM,Extracellular matrix organization,NDNF
+MM,Extracellular matrix organization,NF1
+MM,Extracellular matrix organization,NFKB2
+MM,Extracellular matrix organization,NID1
+MM,Extracellular matrix organization,NID2
+MM,Extracellular matrix organization,NOTCH1
+MM,Extracellular matrix organization,NOX1
+MM,Extracellular matrix organization,NOXO1
+MM,Extracellular matrix organization,NPHP3
+MM,Extracellular matrix organization,NPHS1
+MM,Extracellular matrix organization,NPNT
+MM,Extracellular matrix organization,NR2E1
+MM,Extracellular matrix organization,NTN4
+MM,Extracellular matrix organization,OLFML2A
+MM,Extracellular matrix organization,OLFML2B
+MM,Extracellular matrix organization,OPTC
+MM,Extracellular matrix organization,OTOL1
+MM,Extracellular matrix organization,P3H4
+MM,Extracellular matrix organization,P4HA1
+MM,Extracellular matrix organization,PAPLN
+MM,Extracellular matrix organization,PBXIP1
+MM,Extracellular matrix organization,PDGFRA
+MM,Extracellular matrix organization,PDPN
+MM,Extracellular matrix organization,PHLDB1
+MM,Extracellular matrix organization,PHLDB2
+MM,Extracellular matrix organization,PLG
+MM,Extracellular matrix organization,PLOD3
+MM,Extracellular matrix organization,POMGNT1
+MM,Extracellular matrix organization,POMT1
+MM,Extracellular matrix organization,POMT2
+MM,Extracellular matrix organization,POSTN
+MM,Extracellular matrix organization,PPARG
+MM,Extracellular matrix organization,PRDM5
+MM,Extracellular matrix organization,PRDX4
+MM,Extracellular matrix organization,PRICKLE1
+MM,Extracellular matrix organization,PRSS1
+MM,Extracellular matrix organization,PRSS2
+MM,Extracellular matrix organization,PTX3
+MM,Extracellular matrix organization,PXDN
+MM,Extracellular matrix organization,QSOX1
+MM,Extracellular matrix organization,RAMP2
+MM,Extracellular matrix organization,RB1
+MM,Extracellular matrix organization,RECK
+MM,Extracellular matrix organization,RGCC
+MM,Extracellular matrix organization,RIC1
+MM,Extracellular matrix organization,RIC8A
+MM,Extracellular matrix organization,RUNX1
+MM,Extracellular matrix organization,RXFP1
+MM,Extracellular matrix organization,SCX
+MM,Extracellular matrix organization,SERAC1
+MM,Extracellular matrix organization,SERPINB5
+MM,Extracellular matrix organization,SERPINF2
+MM,Extracellular matrix organization,SERPINH1
+MM,Extracellular matrix organization,SFRP2
+MM,Extracellular matrix organization,SH3PXD2B
+MM,Extracellular matrix organization,SLC2A10
+MM,Extracellular matrix organization,SLC39A8
+MM,Extracellular matrix organization,SMAD3
+MM,Extracellular matrix organization,SMAD4
+MM,Extracellular matrix organization,SMOC1
+MM,Extracellular matrix organization,SMOC2
+MM,Extracellular matrix organization,SMPD3
+MM,Extracellular matrix organization,SOX9
+MM,Extracellular matrix organization,SPINK5
+MM,Extracellular matrix organization,SPINT1
+MM,Extracellular matrix organization,SPINT2
+MM,Extracellular matrix organization,SPOCK2
+MM,Extracellular matrix organization,ST7
+MM,Extracellular matrix organization,SULF1
+MM,Extracellular matrix organization,SULF2
+MM,Extracellular matrix organization,TCF15
+MM,Extracellular matrix organization,TGFB1
+MM,Extracellular matrix organization,TGFB2
+MM,Extracellular matrix organization,TGFBI
+MM,Extracellular matrix organization,TGFBR1
+MM,Extracellular matrix organization,TGFBR3
+MM,Extracellular matrix organization,THSD4
+MM,Extracellular matrix organization,TIE1
+MM,Extracellular matrix organization,TLL1
+MM,Extracellular matrix organization,TLL2
+MM,Extracellular matrix organization,TMEM38B
+MM,Extracellular matrix organization,TMPRSS6
+MM,Extracellular matrix organization,TNF
+MM,Extracellular matrix organization,TNFRSF11B
+MM,Extracellular matrix organization,TNFRSF1A
+MM,Extracellular matrix organization,TNFRSF1B
+MM,Extracellular matrix organization,TNR
+MM,Extracellular matrix organization,TNXB
+MM,Extracellular matrix organization,TPSAB1
+MM,Extracellular matrix organization,VIPAS39
+MM,Extracellular matrix organization,VIT
+MM,Extracellular matrix organization,VPS33B
+MM,Extracellular matrix organization,VTN
+MM,Extracellular matrix organization,VWA1
+MM,Extracellular matrix organization,WASHC1
+MM,Extracellular matrix organization,WDR72
+MM,Extracellular matrix organization,WNT3A
+MM,Extracellular matrix organization,WT1
+MM,Extracellular matrix organization,ZNF469
+MM,Extracellular matrix constituent secretion,ADTRP
+MM,Extracellular matrix constituent secretion,BMP2
+MM,Extracellular matrix constituent secretion,CPB2
+MM,Extracellular matrix constituent secretion,CREB3L1
+MM,Extracellular matrix constituent secretion,ENG
+MM,Extracellular matrix constituent secretion,IER3IP1
+MM,Extracellular matrix constituent secretion,NOTCH1
+MM,Extracellular matrix constituent secretion,PRICKLE1
+MM,Extracellular matrix constituent secretion,RGCC
+MM,Extracellular matrix constituent secretion,RIC1
+MM,Extracellular matrix constituent secretion,TMEM38B
+MM,Extracellular matrix constituent secretion,TNFRSF1A
+MM,Extracellular matrix constituent secretion,TNFRSF1B
+MM,Extracellular matrix assembly,AGT
+MM,Extracellular matrix assembly,ANTXR1
+MM,Extracellular matrix assembly,ATP7A
+MM,Extracellular matrix assembly,CLASP1
+MM,Extracellular matrix assembly,CLASP2
+MM,Extracellular matrix assembly,COL1A2
+MM,Extracellular matrix assembly,COL3A1
+MM,Extracellular matrix assembly,COL6A1
+MM,Extracellular matrix assembly,DAG1
+MM,Extracellular matrix assembly,EFEMP2
+MM,Extracellular matrix assembly,ELN
+MM,Extracellular matrix assembly,EMILIN1
+MM,Extracellular matrix assembly,FBLN5
+MM,Extracellular matrix assembly,FKBP10
+MM,Extracellular matrix assembly,GAS6
+MM,Extracellular matrix assembly,GPM6B
+MM,Extracellular matrix assembly,HAPLN2
+MM,Extracellular matrix assembly,HAS1
+MM,Extracellular matrix assembly,HAS2
+MM,Extracellular matrix assembly,HAS3
+MM,Extracellular matrix assembly,IHH
+MM,Extracellular matrix assembly,LOX
+MM,Extracellular matrix assembly,MAD2L2
+MM,Extracellular matrix assembly,MFAP4
+MM,Extracellular matrix assembly,MIR145
+MM,Extracellular matrix assembly,MIR18A
+MM,Extracellular matrix assembly,MIR19A
+MM,Extracellular matrix assembly,MIR19B1
+MM,Extracellular matrix assembly,MIR27B
+MM,Extracellular matrix assembly,MIR29B1
+MM,Extracellular matrix assembly,MIR483
+MM,Extracellular matrix assembly,MIR9-1
+MM,Extracellular matrix assembly,MIR98
+MM,Extracellular matrix assembly,MYH11
+MM,Extracellular matrix assembly,NOTCH1
+MM,Extracellular matrix assembly,NTN4
+MM,Extracellular matrix assembly,PHLDB1
+MM,Extracellular matrix assembly,PHLDB2
+MM,Extracellular matrix assembly,PLOD3
+MM,Extracellular matrix assembly,PPARG
+MM,Extracellular matrix assembly,PRICKLE1
+MM,Extracellular matrix assembly,PXDN
+MM,Extracellular matrix assembly,QSOX1
+MM,Extracellular matrix assembly,RAMP2
+MM,Extracellular matrix assembly,RGCC
+MM,Extracellular matrix assembly,SMAD3
+MM,Extracellular matrix assembly,SMAD4
+MM,Extracellular matrix assembly,SMPD3
+MM,Extracellular matrix assembly,SOX9
+MM,Extracellular matrix assembly,TGFB1
+MM,Extracellular matrix assembly,TGFBR1
+MM,Extracellular matrix assembly,TGFBR3
+MM,Extracellular matrix assembly,THSD4
+MM,Extracellular matrix assembly,TIE1
+MM,Extracellular matrix assembly,TNXB
+MM,Cell-cell adhesion,ABCA12
+MM,Cell-cell adhesion,ABL1
+MM,Cell-cell adhesion,ABL2
+MM,Cell-cell adhesion,ACTB
+MM,Cell-cell adhesion,ACTG1
+MM,Cell-cell adhesion,ACTL6A
+MM,Cell-cell adhesion,ACTL6B
+MM,Cell-cell adhesion,ACVR1
+MM,Cell-cell adhesion,ADA
+MM,Cell-cell adhesion,ADAM19
+MM,Cell-cell adhesion,ADAM8
+MM,Cell-cell adhesion,ADAM9
+MM,Cell-cell adhesion,ADAMTS18
+MM,Cell-cell adhesion,ADD2
+MM,Cell-cell adhesion,ADGRL1
+MM,Cell-cell adhesion,ADGRL3
+MM,Cell-cell adhesion,ADGRV1
+MM,Cell-cell adhesion,ADIPOQ
+MM,Cell-cell adhesion,ADORA2A
+MM,Cell-cell adhesion,ADTRP
+MM,Cell-cell adhesion,AFDN
+MM,Cell-cell adhesion,AGER
+MM,Cell-cell adhesion,AIF1
+MM,Cell-cell adhesion,AJUBA
+MM,Cell-cell adhesion,AKNA
+MM,Cell-cell adhesion,AKT1
+MM,Cell-cell adhesion,ALCAM
+MM,Cell-cell adhesion,ALOX12
+MM,Cell-cell adhesion,ALOX5
+MM,Cell-cell adhesion,AMBRA1
+MM,Cell-cell adhesion,AMIGO1
+MM,Cell-cell adhesion,AMIGO2
+MM,Cell-cell adhesion,AMIGO3
+MM,Cell-cell adhesion,ANK3
+MM,Cell-cell adhesion,ANXA1
+MM,Cell-cell adhesion,ANXA2
+MM,Cell-cell adhesion,ANXA9
+MM,Cell-cell adhesion,AP3B1
+MM,Cell-cell adhesion,AP3D1
+MM,Cell-cell adhesion,APOA1
+MM,Cell-cell adhesion,APOA4
+MM,Cell-cell adhesion,ARG1
+MM,Cell-cell adhesion,ARG2
+MM,Cell-cell adhesion,ARID1A
+MM,Cell-cell adhesion,ARID1B
+MM,Cell-cell adhesion,ARID2
+MM,Cell-cell adhesion,ARVCF
+MM,Cell-cell adhesion,ASCL2
+MM,Cell-cell adhesion,ASS1
+MM,Cell-cell adhesion,ASTN1
+MM,Cell-cell adhesion,ASTN2
+MM,Cell-cell adhesion,ATP1B2
+MM,Cell-cell adhesion,ATP2C1
+MM,Cell-cell adhesion,B2M
+MM,Cell-cell adhesion,B4GALNT2
+MM,Cell-cell adhesion,BAD
+MM,Cell-cell adhesion,BAIAP2
+MM,Cell-cell adhesion,BAIAP2L1
+MM,Cell-cell adhesion,BCL10
+MM,Cell-cell adhesion,BCL2
+MM,Cell-cell adhesion,BCL6
+MM,Cell-cell adhesion,BLOC1S4
+MM,Cell-cell adhesion,BMI1
+MM,Cell-cell adhesion,BMP2
+MM,Cell-cell adhesion,BMP4
+MM,Cell-cell adhesion,BMP5
+MM,Cell-cell adhesion,BMP6
+MM,Cell-cell adhesion,BMP7
+MM,Cell-cell adhesion,BOC
+MM,Cell-cell adhesion,BRD2
+MM,Cell-cell adhesion,BRD4
+MM,Cell-cell adhesion,BRD7
+MM,Cell-cell adhesion,BTN2A2
+MM,Cell-cell adhesion,BVES
+MM,Cell-cell adhesion,C1QTNF1
+MM,Cell-cell adhesion,CADM1
+MM,Cell-cell adhesion,CADM2
+MM,Cell-cell adhesion,CADM3
+MM,Cell-cell adhesion,CADM4
+MM,Cell-cell adhesion,CAMSAP3
+MM,Cell-cell adhesion,CARD11
+MM,Cell-cell adhesion,CASP3
+MM,Cell-cell adhesion,CAV1
+MM,Cell-cell adhesion,CBFB
+MM,Cell-cell adhesion,CBLB
+MM,Cell-cell adhesion,CBLL1
+MM,Cell-cell adhesion,CBLN1
+MM,Cell-cell adhesion,CCDC88B
+MM,Cell-cell adhesion,CCL19
+MM,Cell-cell adhesion,CCL2
+MM,Cell-cell adhesion,CCL21
+MM,Cell-cell adhesion,CCL25
+MM,Cell-cell adhesion,CCL28
+MM,Cell-cell adhesion,CCL5
+MM,Cell-cell adhesion,CCN1
+MM,Cell-cell adhesion,CCN3
+MM,Cell-cell adhesion,CCR2
+MM,Cell-cell adhesion,CCR7
+MM,Cell-cell adhesion,CD160
+MM,Cell-cell adhesion,CD164
+MM,Cell-cell adhesion,CD177
+MM,Cell-cell adhesion,CD1D
+MM,Cell-cell adhesion,CD2
+MM,Cell-cell adhesion,CD200
+MM,Cell-cell adhesion,CD200R1
+MM,Cell-cell adhesion,CD209
+MM,Cell-cell adhesion,CD24
+MM,Cell-cell adhesion,CD27
+MM,Cell-cell adhesion,CD274
+MM,Cell-cell adhesion,CD276
+MM,Cell-cell adhesion,CD28
+MM,Cell-cell adhesion,CD300A
+MM,Cell-cell adhesion,CD33
+MM,Cell-cell adhesion,CD34
+MM,Cell-cell adhesion,CD3E
+MM,Cell-cell adhesion,CD4
+MM,Cell-cell adhesion,CD40LG
+MM,Cell-cell adhesion,CD44
+MM,Cell-cell adhesion,CD46
+MM,Cell-cell adhesion,CD47
+MM,Cell-cell adhesion,CD5
+MM,Cell-cell adhesion,CD55
+MM,Cell-cell adhesion,CD58
+MM,Cell-cell adhesion,CD6
+MM,Cell-cell adhesion,CD70
+MM,Cell-cell adhesion,CD74
+MM,Cell-cell adhesion,CD80
+MM,Cell-cell adhesion,CD81
+MM,Cell-cell adhesion,CD83
+MM,Cell-cell adhesion,CD84
+MM,Cell-cell adhesion,CD86
+MM,Cell-cell adhesion,CD9
+MM,Cell-cell adhesion,CD93
+MM,Cell-cell adhesion,CD99
+MM,Cell-cell adhesion,CDC42EP1
+MM,Cell-cell adhesion,CDH1
+MM,Cell-cell adhesion,CDH10
+MM,Cell-cell adhesion,CDH11
+MM,Cell-cell adhesion,CDH12
+MM,Cell-cell adhesion,CDH13
+MM,Cell-cell adhesion,CDH15
+MM,Cell-cell adhesion,CDH16
+MM,Cell-cell adhesion,CDH17
+MM,Cell-cell adhesion,CDH18
+MM,Cell-cell adhesion,CDH19
+MM,Cell-cell adhesion,CDH2
+MM,Cell-cell adhesion,CDH20
+MM,Cell-cell adhesion,CDH22
+MM,Cell-cell adhesion,CDH23
+MM,Cell-cell adhesion,CDH24
+MM,Cell-cell adhesion,CDH26
+MM,Cell-cell adhesion,CDH3
+MM,Cell-cell adhesion,CDH4
+MM,Cell-cell adhesion,CDH5
+MM,Cell-cell adhesion,CDH6
+MM,Cell-cell adhesion,CDH7
+MM,Cell-cell adhesion,CDH8
+MM,Cell-cell adhesion,CDH9
+MM,Cell-cell adhesion,CDHR1
+MM,Cell-cell adhesion,CDHR2
+MM,Cell-cell adhesion,CDHR3
+MM,Cell-cell adhesion,CDHR4
+MM,Cell-cell adhesion,CDHR5
+MM,Cell-cell adhesion,CDK5R1
+MM,Cell-cell adhesion,CDON
+MM,Cell-cell adhesion,CDSN
+MM,Cell-cell adhesion,CEACAM1
+MM,Cell-cell adhesion,CEACAM19
+MM,Cell-cell adhesion,CEACAM5
+MM,Cell-cell adhesion,CEACAM6
+MM,Cell-cell adhesion,CEACAM8
+MM,Cell-cell adhesion,CEBPB
+MM,Cell-cell adhesion,CELA2A
+MM,Cell-cell adhesion,CELSR1
+MM,Cell-cell adhesion,CELSR2
+MM,Cell-cell adhesion,CELSR3
+MM,Cell-cell adhesion,CERCAM
+MM,Cell-cell adhesion,CHST2
+MM,Cell-cell adhesion,CHST4
+MM,Cell-cell adhesion,CITED2
+MM,Cell-cell adhesion,CLDN1
+MM,Cell-cell adhesion,CLDN10
+MM,Cell-cell adhesion,CLDN11
+MM,Cell-cell adhesion,CLDN12
+MM,Cell-cell adhesion,CLDN14
+MM,Cell-cell adhesion,CLDN15
+MM,Cell-cell adhesion,CLDN16
+MM,Cell-cell adhesion,CLDN17
+MM,Cell-cell adhesion,CLDN18
+MM,Cell-cell adhesion,CLDN19
+MM,Cell-cell adhesion,CLDN2
+MM,Cell-cell adhesion,CLDN20
+MM,Cell-cell adhesion,CLDN22
+MM,Cell-cell adhesion,CLDN23
+MM,Cell-cell adhesion,CLDN3
+MM,Cell-cell adhesion,CLDN4
+MM,Cell-cell adhesion,CLDN5
+MM,Cell-cell adhesion,CLDN6
+MM,Cell-cell adhesion,CLDN7
+MM,Cell-cell adhesion,CLDN8
+MM,Cell-cell adhesion,CLDN9
+MM,Cell-cell adhesion,CLEC4G
+MM,Cell-cell adhesion,CLEC4M
+MM,Cell-cell adhesion,CLECL1P
+MM,Cell-cell adhesion,CLIC1
+MM,Cell-cell adhesion,CLSTN1
+MM,Cell-cell adhesion,CLSTN2
+MM,Cell-cell adhesion,CLSTN3
+MM,Cell-cell adhesion,CNN3
+MM,Cell-cell adhesion,CNTN1
+MM,Cell-cell adhesion,CNTN2
+MM,Cell-cell adhesion,CNTN4
+MM,Cell-cell adhesion,CNTN5
+MM,Cell-cell adhesion,CNTN6
+MM,Cell-cell adhesion,COL13A1
+MM,Cell-cell adhesion,COL14A1
+MM,Cell-cell adhesion,COL19A1
+MM,Cell-cell adhesion,COL8A2
+MM,Cell-cell adhesion,COMP
+MM,Cell-cell adhesion,CORO1A
+MM,Cell-cell adhesion,CPLANE2
+MM,Cell-cell adhesion,CR1
+MM,Cell-cell adhesion,CRB1
+MM,Cell-cell adhesion,CRB2
+MM,Cell-cell adhesion,CRNN
+MM,Cell-cell adhesion,CRTAM
+MM,Cell-cell adhesion,CSK
+MM,Cell-cell adhesion,CSRP1
+MM,Cell-cell adhesion,CSTA
+MM,Cell-cell adhesion,CTLA4
+MM,Cell-cell adhesion,CTNNA1
+MM,Cell-cell adhesion,CTNNA2
+MM,Cell-cell adhesion,CTNNA3
+MM,Cell-cell adhesion,CTNNB1
+MM,Cell-cell adhesion,CTNND1
+MM,Cell-cell adhesion,CTNND2
+MM,Cell-cell adhesion,CTSG
+MM,Cell-cell adhesion,CX3CL1
+MM,Cell-cell adhesion,CX3CR1
+MM,Cell-cell adhesion,CXADR
+MM,Cell-cell adhesion,CXCL12
+MM,Cell-cell adhesion,CXCL13
+MM,Cell-cell adhesion,CYFIP2
+MM,Cell-cell adhesion,CYLD
+MM,Cell-cell adhesion,CYP1B1
+MM,Cell-cell adhesion,CYRIB
+MM,Cell-cell adhesion,DAB1
+MM,Cell-cell adhesion,DAPL1
+MM,Cell-cell adhesion,DCC
+MM,Cell-cell adhesion,DCHS1
+MM,Cell-cell adhesion,DCHS2
+MM,Cell-cell adhesion,DENND6A
+MM,Cell-cell adhesion,DHPS
+MM,Cell-cell adhesion,DLG1
+MM,Cell-cell adhesion,DLG2
+MM,Cell-cell adhesion,DLG3
+MM,Cell-cell adhesion,DLG4
+MM,Cell-cell adhesion,DLG5
+MM,Cell-cell adhesion,DNAJA3
+MM,Cell-cell adhesion,DNAJB6
+MM,Cell-cell adhesion,DOCK8
+MM,Cell-cell adhesion,DPP4
+MM,Cell-cell adhesion,DSC1
+MM,Cell-cell adhesion,DSC2
+MM,Cell-cell adhesion,DSC3
+MM,Cell-cell adhesion,DSCAM
+MM,Cell-cell adhesion,DSCAML1
+MM,Cell-cell adhesion,DSG1
+MM,Cell-cell adhesion,DSG2
+MM,Cell-cell adhesion,DSG3
+MM,Cell-cell adhesion,DSG4
+MM,Cell-cell adhesion,DSP
+MM,Cell-cell adhesion,DTX1
+MM,Cell-cell adhesion,DUSP10
+MM,Cell-cell adhesion,DUSP22
+MM,Cell-cell adhesion,DUSP3
+MM,Cell-cell adhesion,EBI3
+MM,Cell-cell adhesion,EFNA5
+MM,Cell-cell adhesion,EFNB1
+MM,Cell-cell adhesion,EFNB2
+MM,Cell-cell adhesion,EFNB3
+MM,Cell-cell adhesion,EGFR
+MM,Cell-cell adhesion,EGR3
+MM,Cell-cell adhesion,ELANE
+MM,Cell-cell adhesion,EMB
+MM,Cell-cell adhesion,EMILIN1
+MM,Cell-cell adhesion,EMILIN2
+MM,Cell-cell adhesion,ENTPD1
+MM,Cell-cell adhesion,EPB41L5
+MM,Cell-cell adhesion,EPCAM
+MM,Cell-cell adhesion,EPHA7
+MM,Cell-cell adhesion,EPHB3
+MM,Cell-cell adhesion,EPO
+MM,Cell-cell adhesion,ERBB2
+MM,Cell-cell adhesion,ESAM
+MM,Cell-cell adhesion,ETS1
+MM,Cell-cell adhesion,EXT1
+MM,Cell-cell adhesion,EZR
+MM,Cell-cell adhesion,F11R
+MM,Cell-cell adhesion,F2RL3
+MM,Cell-cell adhesion,FADD
+MM,Cell-cell adhesion,FAT1
+MM,Cell-cell adhesion,FAT2
+MM,Cell-cell adhesion,FAT3
+MM,Cell-cell adhesion,FAT4
+MM,Cell-cell adhesion,FBLIM1
+MM,Cell-cell adhesion,FCHO1
+MM,Cell-cell adhesion,FER
+MM,Cell-cell adhesion,FERMT3
+MM,Cell-cell adhesion,FGA
+MM,Cell-cell adhesion,FGB
+MM,Cell-cell adhesion,FGFRL1
+MM,Cell-cell adhesion,FGG
+MM,Cell-cell adhesion,FGL1
+MM,Cell-cell adhesion,FGL2
+MM,Cell-cell adhesion,FIBP
+MM,Cell-cell adhesion,FLNA
+MM,Cell-cell adhesion,FLOT1
+MM,Cell-cell adhesion,FLOT2
+MM,Cell-cell adhesion,FLRT3
+MM,Cell-cell adhesion,FNDC3A
+MM,Cell-cell adhesion,FOXA1
+MM,Cell-cell adhesion,FOXA2
+MM,Cell-cell adhesion,FOXF1
+MM,Cell-cell adhesion,FOXJ1
+MM,Cell-cell adhesion,FOXO3
+MM,Cell-cell adhesion,FOXP3
+MM,Cell-cell adhesion,FSTL3
+MM,Cell-cell adhesion,FUT3
+MM,Cell-cell adhesion,FUT4
+MM,Cell-cell adhesion,FUT7
+MM,Cell-cell adhesion,FUT9
+MM,Cell-cell adhesion,FXYD5
+MM,Cell-cell adhesion,FYN
+MM,Cell-cell adhesion,GATA1
+MM,Cell-cell adhesion,GATA3
+MM,Cell-cell adhesion,GATA5
+MM,Cell-cell adhesion,GCNT1
+MM,Cell-cell adhesion,GCNT2
+MM,Cell-cell adhesion,GFUS
+MM,Cell-cell adhesion,GLDN
+MM,Cell-cell adhesion,GLI2
+MM,Cell-cell adhesion,GLI3
+MM,Cell-cell adhesion,GLMN
+MM,Cell-cell adhesion,GNAS
+MM,Cell-cell adhesion,GOLPH3
+MM,Cell-cell adhesion,GP1BA
+MM,Cell-cell adhesion,GP6
+MM,Cell-cell adhesion,GPAM
+MM,Cell-cell adhesion,GPC4
+MM,Cell-cell adhesion,GPNMB
+MM,Cell-cell adhesion,GRID2
+MM,Cell-cell adhesion,GTPBP4
+MM,Cell-cell adhesion,HAS2
+MM,Cell-cell adhesion,HAVCR2
+MM,Cell-cell adhesion,HBB
+MM,Cell-cell adhesion,HES1
+MM,Cell-cell adhesion,HFE
+MM,Cell-cell adhesion,HHLA2
+MM,Cell-cell adhesion,HLA-A
+MM,Cell-cell adhesion,HLA-DMA
+MM,Cell-cell adhesion,HLA-DMB
+MM,Cell-cell adhesion,HLA-DOA
+MM,Cell-cell adhesion,HLA-DOB
+MM,Cell-cell adhesion,HLA-DPA1
+MM,Cell-cell adhesion,HLA-DPB1
+MM,Cell-cell adhesion,HLA-DQA1
+MM,Cell-cell adhesion,HLA-DQA2
+MM,Cell-cell adhesion,HLA-DQB1
+MM,Cell-cell adhesion,HLA-DQB2
+MM,Cell-cell adhesion,HLA-DRA
+MM,Cell-cell adhesion,HLA-DRB1
+MM,Cell-cell adhesion,HLA-DRB3
+MM,Cell-cell adhesion,HLA-DRB4
+MM,Cell-cell adhesion,HLA-DRB5
+MM,Cell-cell adhesion,HLA-E
+MM,Cell-cell adhesion,HLA-G
+MM,Cell-cell adhesion,HLX
+MM,Cell-cell adhesion,HMCN1
+MM,Cell-cell adhesion,HMCN2
+MM,Cell-cell adhesion,HMGB1
+MM,Cell-cell adhesion,HSPB1
+MM,Cell-cell adhesion,HSPD1
+MM,Cell-cell adhesion,HSPH1
+MM,Cell-cell adhesion,HTN1
+MM,Cell-cell adhesion,ICAM1
+MM,Cell-cell adhesion,ICAM2
+MM,Cell-cell adhesion,ICAM3
+MM,Cell-cell adhesion,ICAM4
+MM,Cell-cell adhesion,ICAM5
+MM,Cell-cell adhesion,ICOS
+MM,Cell-cell adhesion,ICOSLG
+MM,Cell-cell adhesion,IDO1
+MM,Cell-cell adhesion,IFNA2
+MM,Cell-cell adhesion,IFNB1
+MM,Cell-cell adhesion,IFNG
+MM,Cell-cell adhesion,IFNL1
+MM,Cell-cell adhesion,IGDCC3
+MM,Cell-cell adhesion,IGDCC4
+MM,Cell-cell adhesion,IGF1
+MM,Cell-cell adhesion,IGF2
+MM,Cell-cell adhesion,IGFBP2
+MM,Cell-cell adhesion,IGSF11
+MM,Cell-cell adhesion,IGSF21
+MM,Cell-cell adhesion,IGSF5
+MM,Cell-cell adhesion,IGSF9
+MM,Cell-cell adhesion,IHH
+MM,Cell-cell adhesion,IL10
+MM,Cell-cell adhesion,IL12A
+MM,Cell-cell adhesion,IL12B
+MM,Cell-cell adhesion,IL12RB1
+MM,Cell-cell adhesion,IL15
+MM,Cell-cell adhesion,IL18
+MM,Cell-cell adhesion,IL1A
+MM,Cell-cell adhesion,IL1B
+MM,Cell-cell adhesion,IL1RAP
+MM,Cell-cell adhesion,IL1RAPL1
+MM,Cell-cell adhesion,IL1RL2
+MM,Cell-cell adhesion,IL1RN
+MM,Cell-cell adhesion,IL2
+MM,Cell-cell adhesion,IL20RB
+MM,Cell-cell adhesion,IL21
+MM,Cell-cell adhesion,IL23A
+MM,Cell-cell adhesion,IL23R
+MM,Cell-cell adhesion,IL2RA
+MM,Cell-cell adhesion,IL2RG
+MM,Cell-cell adhesion,IL36B
+MM,Cell-cell adhesion,IL4
+MM,Cell-cell adhesion,IL4I1
+MM,Cell-cell adhesion,IL4R
+MM,Cell-cell adhesion,IL6
+MM,Cell-cell adhesion,IL6ST
+MM,Cell-cell adhesion,IL7
+MM,Cell-cell adhesion,IL7R
+MM,Cell-cell adhesion,ILDR2
+MM,Cell-cell adhesion,ILK
+MM,Cell-cell adhesion,IRAK1
+MM,Cell-cell adhesion,IRF1
+MM,Cell-cell adhesion,ITCH
+MM,Cell-cell adhesion,ITGA1
+MM,Cell-cell adhesion,ITGA10
+MM,Cell-cell adhesion,ITGA11
+MM,Cell-cell adhesion,ITGA2
+MM,Cell-cell adhesion,ITGA2B
+MM,Cell-cell adhesion,ITGA3
+MM,Cell-cell adhesion,ITGA4
+MM,Cell-cell adhesion,ITGA5
+MM,Cell-cell adhesion,ITGA6
+MM,Cell-cell adhesion,ITGA7
+MM,Cell-cell adhesion,ITGA8
+MM,Cell-cell adhesion,ITGA9
+MM,Cell-cell adhesion,ITGAD
+MM,Cell-cell adhesion,ITGAE
+MM,Cell-cell adhesion,ITGAL
+MM,Cell-cell adhesion,ITGAM
+MM,Cell-cell adhesion,ITGAV
+MM,Cell-cell adhesion,ITGAX
+MM,Cell-cell adhesion,ITGB1
+MM,Cell-cell adhesion,ITGB2
+MM,Cell-cell adhesion,ITGB3
+MM,Cell-cell adhesion,ITGB4
+MM,Cell-cell adhesion,ITGB5
+MM,Cell-cell adhesion,ITGB6
+MM,Cell-cell adhesion,ITGB7
+MM,Cell-cell adhesion,ITGB8
+MM,Cell-cell adhesion,ITGBL1
+MM,Cell-cell adhesion,ITPKB
+MM,Cell-cell adhesion,IZUMO1
+MM,Cell-cell adhesion,JAG1
+MM,Cell-cell adhesion,JAK1
+MM,Cell-cell adhesion,JAK2
+MM,Cell-cell adhesion,JAK3
+MM,Cell-cell adhesion,JAM2
+MM,Cell-cell adhesion,JAM3
+MM,Cell-cell adhesion,JAML
+MM,Cell-cell adhesion,JUP
+MM,Cell-cell adhesion,KAT5
+MM,Cell-cell adhesion,KIF26B
+MM,Cell-cell adhesion,KIFAP3
+MM,Cell-cell adhesion,KIFC3
+MM,Cell-cell adhesion,KIRREL1
+MM,Cell-cell adhesion,KIRREL2
+MM,Cell-cell adhesion,KIRREL3
+MM,Cell-cell adhesion,KIT
+MM,Cell-cell adhesion,KITLG
+MM,Cell-cell adhesion,KLF4
+MM,Cell-cell adhesion,KLHL25
+MM,Cell-cell adhesion,KLRC4-KLRK1
+MM,Cell-cell adhesion,KLRK1
+MM,Cell-cell adhesion,KRT18
+MM,Cell-cell adhesion,L1CAM
+MM,Cell-cell adhesion,LAG3
+MM,Cell-cell adhesion,LAMA3
+MM,Cell-cell adhesion,LAMB1
+MM,Cell-cell adhesion,LAPTM5
+MM,Cell-cell adhesion,LAX1
+MM,Cell-cell adhesion,LCK
+MM,Cell-cell adhesion,LEF1
+MM,Cell-cell adhesion,LEP
+MM,Cell-cell adhesion,LGALS1
+MM,Cell-cell adhesion,LGALS2
+MM,Cell-cell adhesion,LGALS3
+MM,Cell-cell adhesion,LGALS7B
+MM,Cell-cell adhesion,LGALS9
+MM,Cell-cell adhesion,LGALS9B
+MM,Cell-cell adhesion,LGALS9C
+MM,Cell-cell adhesion,LILRB1
+MM,Cell-cell adhesion,LILRB2
+MM,Cell-cell adhesion,LILRB4
+MM,Cell-cell adhesion,LIMS1
+MM,Cell-cell adhesion,LIMS2
+MM,Cell-cell adhesion,LOXL3
+MM,Cell-cell adhesion,LPP
+MM,Cell-cell adhesion,LRFN3
+MM,Cell-cell adhesion,LRFN4
+MM,Cell-cell adhesion,LRFN5
+MM,Cell-cell adhesion,LRG1
+MM,Cell-cell adhesion,LRP5
+MM,Cell-cell adhesion,LRP6
+MM,Cell-cell adhesion,LRRC32
+MM,Cell-cell adhesion,LRRC4
+MM,Cell-cell adhesion,LRRC4B
+MM,Cell-cell adhesion,LRRC4C
+MM,Cell-cell adhesion,LRRC7
+MM,Cell-cell adhesion,LYN
+MM,Cell-cell adhesion,MAD1L1
+MM,Cell-cell adhesion,MAD2L2
+MM,Cell-cell adhesion,MADCAM1
+MM,Cell-cell adhesion,MAG
+MM,Cell-cell adhesion,MAGI1
+MM,Cell-cell adhesion,MALT1
+MM,Cell-cell adhesion,MAP2K5
+MM,Cell-cell adhesion,MAP3K8
+MM,Cell-cell adhesion,MAPK14
+MM,Cell-cell adhesion,MAPK7
+MM,Cell-cell adhesion,MARCHF7
+MM,Cell-cell adhesion,MBP
+MM,Cell-cell adhesion,MDGA1
+MM,Cell-cell adhesion,MDK
+MM,Cell-cell adhesion,MEGF10
+MM,Cell-cell adhesion,MEGF11
+MM,Cell-cell adhesion,METAP1
+MM,Cell-cell adhesion,METTL3
+MM,Cell-cell adhesion,MFSD2B
+MM,Cell-cell adhesion,MIA3
+MM,Cell-cell adhesion,MINK1
+MM,Cell-cell adhesion,MIR125A
+MM,Cell-cell adhesion,MIR141
+MM,Cell-cell adhesion,MIR146A
+MM,Cell-cell adhesion,MIR181C
+MM,Cell-cell adhesion,MIR21
+MM,Cell-cell adhesion,MIR221
+MM,Cell-cell adhesion,MIR222
+MM,Cell-cell adhesion,MIR27A
+MM,Cell-cell adhesion,MIR30B
+MM,Cell-cell adhesion,MIR31
+MM,Cell-cell adhesion,MIR92A1
+MM,Cell-cell adhesion,MIRLET7E
+MM,Cell-cell adhesion,MIRLET7G
+MM,Cell-cell adhesion,MMP24
+MM,Cell-cell adhesion,MMRN1
+MM,Cell-cell adhesion,MPZ
+MM,Cell-cell adhesion,MPZL2
+MM,Cell-cell adhesion,MSN
+MM,Cell-cell adhesion,MTOR
+MM,Cell-cell adhesion,MUC21
+MM,Cell-cell adhesion,MYADM
+MM,Cell-cell adhesion,MYH9
+MM,Cell-cell adhesion,MYL12A
+MM,Cell-cell adhesion,MYL9
+MM,Cell-cell adhesion,MYO10
+MM,Cell-cell adhesion,MYOT
+MM,Cell-cell adhesion,MYPN
+MM,Cell-cell adhesion,NCAM2
+MM,Cell-cell adhesion,NCK1
+MM,Cell-cell adhesion,NCK2
+MM,Cell-cell adhesion,NCKAP1L
+MM,Cell-cell adhesion,NDFIP1
+MM,Cell-cell adhesion,NECTIN1
+MM,Cell-cell adhesion,NECTIN2
+MM,Cell-cell adhesion,NECTIN3
+MM,Cell-cell adhesion,NECTIN4
+MM,Cell-cell adhesion,NEGR1
+MM,Cell-cell adhesion,NEO1
+MM,Cell-cell adhesion,NEXMIF
+MM,Cell-cell adhesion,NEXN
+MM,Cell-cell adhesion,NF2
+MM,Cell-cell adhesion,NFASC
+MM,Cell-cell adhesion,NFAT5
+MM,Cell-cell adhesion,NFKBID
+MM,Cell-cell adhesion,NFKBIZ
+MM,Cell-cell adhesion,NINJ1
+MM,Cell-cell adhesion,NINJ2
+MM,Cell-cell adhesion,NKAP
+MM,Cell-cell adhesion,NLGN1
+MM,Cell-cell adhesion,NLGN2
+MM,Cell-cell adhesion,NLGN3
+MM,Cell-cell adhesion,NLGN4X
+MM,Cell-cell adhesion,NLGN4Y
+MM,Cell-cell adhesion,NLRP3
+MM,Cell-cell adhesion,NOD2
+MM,Cell-cell adhesion,NODAL
+MM,Cell-cell adhesion,NOTCH1
+MM,Cell-cell adhesion,NOTCH4
+MM,Cell-cell adhesion,NPHP1
+MM,Cell-cell adhesion,NPHP4
+MM,Cell-cell adhesion,NPHS1
+MM,Cell-cell adhesion,NPNT
+MM,Cell-cell adhesion,NPTN
+MM,Cell-cell adhesion,NR4A3
+MM,Cell-cell adhesion,NRARP
+MM,Cell-cell adhesion,NRCAM
+MM,Cell-cell adhesion,NRXN1
+MM,Cell-cell adhesion,NRXN2
+MM,Cell-cell adhesion,NRXN3
+MM,Cell-cell adhesion,NT5E
+MM,Cell-cell adhesion,NTN1
+MM,Cell-cell adhesion,NTNG1
+MM,Cell-cell adhesion,NTNG2
+MM,Cell-cell adhesion,OLR1
+MM,Cell-cell adhesion,P2RY12
+MM,Cell-cell adhesion,PAG1
+MM,Cell-cell adhesion,PAK4
+MM,Cell-cell adhesion,PALLD
+MM,Cell-cell adhesion,PARVA
+MM,Cell-cell adhesion,PAWR
+MM,Cell-cell adhesion,PBRM1
+MM,Cell-cell adhesion,PCDH1
+MM,Cell-cell adhesion,PCDH10
+MM,Cell-cell adhesion,PCDH11X
+MM,Cell-cell adhesion,PCDH11Y
+MM,Cell-cell adhesion,PCDH12
+MM,Cell-cell adhesion,PCDH15
+MM,Cell-cell adhesion,PCDH17
+MM,Cell-cell adhesion,PCDH18
+MM,Cell-cell adhesion,PCDH19
+MM,Cell-cell adhesion,PCDH20
+MM,Cell-cell adhesion,PCDH7
+MM,Cell-cell adhesion,PCDH8
+MM,Cell-cell adhesion,PCDH9
+MM,Cell-cell adhesion,PCDHA1
+MM,Cell-cell adhesion,PCDHA10
+MM,Cell-cell adhesion,PCDHA11
+MM,Cell-cell adhesion,PCDHA12
+MM,Cell-cell adhesion,PCDHA13
+MM,Cell-cell adhesion,PCDHA2
+MM,Cell-cell adhesion,PCDHA3
+MM,Cell-cell adhesion,PCDHA4
+MM,Cell-cell adhesion,PCDHA5
+MM,Cell-cell adhesion,PCDHA6
+MM,Cell-cell adhesion,PCDHA7
+MM,Cell-cell adhesion,PCDHA8
+MM,Cell-cell adhesion,PCDHA9
+MM,Cell-cell adhesion,PCDHAC1
+MM,Cell-cell adhesion,PCDHAC2
+MM,Cell-cell adhesion,PCDHB1
+MM,Cell-cell adhesion,PCDHB10
+MM,Cell-cell adhesion,PCDHB11
+MM,Cell-cell adhesion,PCDHB12
+MM,Cell-cell adhesion,PCDHB13
+MM,Cell-cell adhesion,PCDHB14
+MM,Cell-cell adhesion,PCDHB15
+MM,Cell-cell adhesion,PCDHB16
+MM,Cell-cell adhesion,PCDHB18P
+MM,Cell-cell adhesion,PCDHB2
+MM,Cell-cell adhesion,PCDHB3
+MM,Cell-cell adhesion,PCDHB4
+MM,Cell-cell adhesion,PCDHB5
+MM,Cell-cell adhesion,PCDHB6
+MM,Cell-cell adhesion,PCDHB7
+MM,Cell-cell adhesion,PCDHB8
+MM,Cell-cell adhesion,PCDHB9
+MM,Cell-cell adhesion,PCDHGA1
+MM,Cell-cell adhesion,PCDHGA10
+MM,Cell-cell adhesion,PCDHGA11
+MM,Cell-cell adhesion,PCDHGA12
+MM,Cell-cell adhesion,PCDHGA2
+MM,Cell-cell adhesion,PCDHGA3
+MM,Cell-cell adhesion,PCDHGA4
+MM,Cell-cell adhesion,PCDHGA5
+MM,Cell-cell adhesion,PCDHGA6
+MM,Cell-cell adhesion,PCDHGA7
+MM,Cell-cell adhesion,PCDHGA8
+MM,Cell-cell adhesion,PCDHGA9
+MM,Cell-cell adhesion,PCDHGB1
+MM,Cell-cell adhesion,PCDHGB2
+MM,Cell-cell adhesion,PCDHGB3
+MM,Cell-cell adhesion,PCDHGB4
+MM,Cell-cell adhesion,PCDHGB5
+MM,Cell-cell adhesion,PCDHGB6
+MM,Cell-cell adhesion,PCDHGB7
+MM,Cell-cell adhesion,PCDHGC3
+MM,Cell-cell adhesion,PCDHGC4
+MM,Cell-cell adhesion,PCDHGC5
+MM,Cell-cell adhesion,PCK1
+MM,Cell-cell adhesion,PDCD1LG2
+MM,Cell-cell adhesion,PDE5A
+MM,Cell-cell adhesion,PDGFRA
+MM,Cell-cell adhesion,PDIA2
+MM,Cell-cell adhesion,PDIA3
+MM,Cell-cell adhesion,PDLIM1
+MM,Cell-cell adhesion,PDLIM5
+MM,Cell-cell adhesion,PDPK1
+MM,Cell-cell adhesion,PDPN
+MM,Cell-cell adhesion,PEAR1
+MM,Cell-cell adhesion,PECAM1
+MM,Cell-cell adhesion,PELI1
+MM,Cell-cell adhesion,PERP
+MM,Cell-cell adhesion,PHF10
+MM,Cell-cell adhesion,PIEZO1
+MM,Cell-cell adhesion,PIK3CA
+MM,Cell-cell adhesion,PIK3CB
+MM,Cell-cell adhesion,PIK3CG
+MM,Cell-cell adhesion,PIK3R6
+MM,Cell-cell adhesion,PIP5K1C
+MM,Cell-cell adhesion,PKD1
+MM,Cell-cell adhesion,PKD1L1
+MM,Cell-cell adhesion,PKHD1
+MM,Cell-cell adhesion,PKP1
+MM,Cell-cell adhesion,PKP2
+MM,Cell-cell adhesion,PKP3
+MM,Cell-cell adhesion,PKP4
+MM,Cell-cell adhesion,PLA2G2A
+MM,Cell-cell adhesion,PLA2G2D
+MM,Cell-cell adhesion,PLA2G2E
+MM,Cell-cell adhesion,PLA2G2F
+MM,Cell-cell adhesion,PLA2G5
+MM,Cell-cell adhesion,PLAUR
+MM,Cell-cell adhesion,PLEK
+MM,Cell-cell adhesion,PLEKHA7
+MM,Cell-cell adhesion,PLG
+MM,Cell-cell adhesion,PLPP3
+MM,Cell-cell adhesion,PLXNB2
+MM,Cell-cell adhesion,PLXNB3
+MM,Cell-cell adhesion,PNP
+MM,Cell-cell adhesion,PODXL
+MM,Cell-cell adhesion,PODXL2
+MM,Cell-cell adhesion,PPARA
+MM,Cell-cell adhesion,PPIA
+MM,Cell-cell adhesion,PPM1F
+MM,Cell-cell adhesion,PPP1CA
+MM,Cell-cell adhesion,PPP3CA
+MM,Cell-cell adhesion,PRDX2
+MM,Cell-cell adhesion,PRICKLE1
+MM,Cell-cell adhesion,PRKAR1A
+MM,Cell-cell adhesion,PRKCA
+MM,Cell-cell adhesion,PRKCD
+MM,Cell-cell adhesion,PRKCQ
+MM,Cell-cell adhesion,PRKCZ
+MM,Cell-cell adhesion,PRKG1
+MM,Cell-cell adhesion,PRNP
+MM,Cell-cell adhesion,PRTG
+MM,Cell-cell adhesion,PSEN1
+MM,Cell-cell adhesion,PSG11
+MM,Cell-cell adhesion,PSG2
+MM,Cell-cell adhesion,PSG5
+MM,Cell-cell adhesion,PTAFR
+MM,Cell-cell adhesion,PTK2
+MM,Cell-cell adhesion,PTK7
+MM,Cell-cell adhesion,PTPN11
+MM,Cell-cell adhesion,PTPN2
+MM,Cell-cell adhesion,PTPN22
+MM,Cell-cell adhesion,PTPN23
+MM,Cell-cell adhesion,PTPN6
+MM,Cell-cell adhesion,PTPRC
+MM,Cell-cell adhesion,PTPRD
+MM,Cell-cell adhesion,PTPRF
+MM,Cell-cell adhesion,PTPRM
+MM,Cell-cell adhesion,PTPRS
+MM,Cell-cell adhesion,PTPRT
+MM,Cell-cell adhesion,PTPRU
+MM,Cell-cell adhesion,PVR
+MM,Cell-cell adhesion,PYCARD
+MM,Cell-cell adhesion,RAB10
+MM,Cell-cell adhesion,RAC2
+MM,Cell-cell adhesion,RAG1
+MM,Cell-cell adhesion,RAG2
+MM,Cell-cell adhesion,RAP2B
+MM,Cell-cell adhesion,RARA
+MM,Cell-cell adhesion,RASAL3
+MM,Cell-cell adhesion,RASGRP1
+MM,Cell-cell adhesion,RC3H1
+MM,Cell-cell adhesion,RC3H2
+MM,Cell-cell adhesion,RDX
+MM,Cell-cell adhesion,REG3A
+MM,Cell-cell adhesion,RELA
+MM,Cell-cell adhesion,RET
+MM,Cell-cell adhesion,RGCC
+MM,Cell-cell adhesion,RHOA
+MM,Cell-cell adhesion,RHOH
+MM,Cell-cell adhesion,RIC8A
+MM,Cell-cell adhesion,RIPK2
+MM,Cell-cell adhesion,RIPOR2
+MM,Cell-cell adhesion,RNASE10
+MM,Cell-cell adhesion,ROBO1
+MM,Cell-cell adhesion,ROBO2
+MM,Cell-cell adhesion,ROBO3
+MM,Cell-cell adhesion,ROBO4
+MM,Cell-cell adhesion,ROCK1
+MM,Cell-cell adhesion,ROPN1B
+MM,Cell-cell adhesion,RPS3
+MM,Cell-cell adhesion,RUNX1
+MM,Cell-cell adhesion,RUNX3
+MM,Cell-cell adhesion,S100A11
+MM,Cell-cell adhesion,S100A8
+MM,Cell-cell adhesion,S100A9
+MM,Cell-cell adhesion,SART1
+MM,Cell-cell adhesion,SASH3
+MM,Cell-cell adhesion,SCARF1
+MM,Cell-cell adhesion,SCARF2
+MM,Cell-cell adhesion,SCGB1A1
+MM,Cell-cell adhesion,SCRIB
+MM,Cell-cell adhesion,SDC4
+MM,Cell-cell adhesion,SDK1
+MM,Cell-cell adhesion,SDK2
+MM,Cell-cell adhesion,SELE
+MM,Cell-cell adhesion,SELENOK
+MM,Cell-cell adhesion,SELL
+MM,Cell-cell adhesion,SELP
+MM,Cell-cell adhesion,SELPLG
+MM,Cell-cell adhesion,SEMA4D
+MM,Cell-cell adhesion,SERPINB8
+MM,Cell-cell adhesion,SERPINE2
+MM,Cell-cell adhesion,SERPINF2
+MM,Cell-cell adhesion,SFTPD
+MM,Cell-cell adhesion,SH2B3
+MM,Cell-cell adhesion,SHB
+MM,Cell-cell adhesion,SHC1
+MM,Cell-cell adhesion,SHH
+MM,Cell-cell adhesion,SIGLEC1
+MM,Cell-cell adhesion,SIRPA
+MM,Cell-cell adhesion,SIRPB1
+MM,Cell-cell adhesion,SIRPG
+MM,Cell-cell adhesion,SKAP1
+MM,Cell-cell adhesion,SLAMF1
+MM,Cell-cell adhesion,SLC39A8
+MM,Cell-cell adhesion,SLC4A2
+MM,Cell-cell adhesion,SLC6A4
+MM,Cell-cell adhesion,SLC7A1
+MM,Cell-cell adhesion,SLC7A11
+MM,Cell-cell adhesion,SLITRK1
+MM,Cell-cell adhesion,SLITRK2
+MM,Cell-cell adhesion,SLITRK3
+MM,Cell-cell adhesion,SMAD7
+MM,Cell-cell adhesion,SMARCA2
+MM,Cell-cell adhesion,SMARCA4
+MM,Cell-cell adhesion,SMARCB1
+MM,Cell-cell adhesion,SMARCC1
+MM,Cell-cell adhesion,SMARCC2
+MM,Cell-cell adhesion,SMARCD1
+MM,Cell-cell adhesion,SMARCD2
+MM,Cell-cell adhesion,SMARCD3
+MM,Cell-cell adhesion,SMARCE1
+MM,Cell-cell adhesion,SOCS1
+MM,Cell-cell adhesion,SOCS5
+MM,Cell-cell adhesion,SOCS6
+MM,Cell-cell adhesion,SOX12
+MM,Cell-cell adhesion,SOX13
+MM,Cell-cell adhesion,SOX2
+MM,Cell-cell adhesion,SOX4
+MM,Cell-cell adhesion,SOX9
+MM,Cell-cell adhesion,SPARCL1
+MM,Cell-cell adhesion,SPI1
+MM,Cell-cell adhesion,SPINT2
+MM,Cell-cell adhesion,SPN
+MM,Cell-cell adhesion,SPTA1
+MM,Cell-cell adhesion,SRC
+MM,Cell-cell adhesion,SRF
+MM,Cell-cell adhesion,SRPX2
+MM,Cell-cell adhesion,ST3GAL4
+MM,Cell-cell adhesion,STAT5B
+MM,Cell-cell adhesion,STK10
+MM,Cell-cell adhesion,STXBP1
+MM,Cell-cell adhesion,STXBP3
+MM,Cell-cell adhesion,STXBP6
+MM,Cell-cell adhesion,SWAP70
+MM,Cell-cell adhesion,SYK
+MM,Cell-cell adhesion,TARM1
+MM,Cell-cell adhesion,TBX21
+MM,Cell-cell adhesion,TENM1
+MM,Cell-cell adhesion,TENM2
+MM,Cell-cell adhesion,TENM3
+MM,Cell-cell adhesion,TENM4
+MM,Cell-cell adhesion,TESPA1
+MM,Cell-cell adhesion,TFRC
+MM,Cell-cell adhesion,TGFB1
+MM,Cell-cell adhesion,TGFB2
+MM,Cell-cell adhesion,TGFBR2
+MM,Cell-cell adhesion,THBS4
+MM,Cell-cell adhesion,THY1
+MM,Cell-cell adhesion,TIGIT
+MM,Cell-cell adhesion,TJP1
+MM,Cell-cell adhesion,TJP2
+MM,Cell-cell adhesion,TJP3
+MM,Cell-cell adhesion,TLN1
+MM,Cell-cell adhesion,TLN2
+MM,Cell-cell adhesion,TMEM131L
+MM,Cell-cell adhesion,TMEM47
+MM,Cell-cell adhesion,TMIGD1
+MM,Cell-cell adhesion,TMIGD2
+MM,Cell-cell adhesion,TMOD3
+MM,Cell-cell adhesion,TMX1
+MM,Cell-cell adhesion,TNF
+MM,Cell-cell adhesion,TNFAIP8L2
+MM,Cell-cell adhesion,TNFRSF13C
+MM,Cell-cell adhesion,TNFRSF14
+MM,Cell-cell adhesion,TNFRSF21
+MM,Cell-cell adhesion,TNFSF11
+MM,Cell-cell adhesion,TNFSF13B
+MM,Cell-cell adhesion,TNFSF14
+MM,Cell-cell adhesion,TNFSF4
+MM,Cell-cell adhesion,TNFSF9
+MM,Cell-cell adhesion,TNIP1
+MM,Cell-cell adhesion,TNR
+MM,Cell-cell adhesion,TNXB
+MM,Cell-cell adhesion,TRAF6
+MM,Cell-cell adhesion,TRIM29
+MM,Cell-cell adhesion,TRO
+MM,Cell-cell adhesion,TRPV4
+MM,Cell-cell adhesion,TSPAN32
+MM,Cell-cell adhesion,TTYH1
+MM,Cell-cell adhesion,TUBB1
+MM,Cell-cell adhesion,TWSG1
+MM,Cell-cell adhesion,TYK2
+MM,Cell-cell adhesion,TYRO3
+MM,Cell-cell adhesion,UBASH3B
+MM,Cell-cell adhesion,UMOD
+MM,Cell-cell adhesion,UNC5D
+MM,Cell-cell adhesion,VAV1
+MM,Cell-cell adhesion,VCAM1
+MM,Cell-cell adhesion,VCL
+MM,Cell-cell adhesion,VEGFA
+MM,Cell-cell adhesion,VEZT
+MM,Cell-cell adhesion,VMP1
+MM,Cell-cell adhesion,VNN1
+MM,Cell-cell adhesion,VPS33B
+MM,Cell-cell adhesion,VSIG10
+MM,Cell-cell adhesion,VSIG10L2
+MM,Cell-cell adhesion,VSIG4
+MM,Cell-cell adhesion,VSIR
+MM,Cell-cell adhesion,VTCN1
+MM,Cell-cell adhesion,WNK1
+MM,Cell-cell adhesion,WNT1
+MM,Cell-cell adhesion,WNT10B
+MM,Cell-cell adhesion,WNT3A
+MM,Cell-cell adhesion,WNT4
+MM,Cell-cell adhesion,WNT5A
+MM,Cell-cell adhesion,WNT7B
+MM,Cell-cell adhesion,XBP1
+MM,Cell-cell adhesion,XCL1
+MM,Cell-cell adhesion,XG
+MM,Cell-cell adhesion,YES1
+MM,Cell-cell adhesion,YTHDF2
+MM,Cell-cell adhesion,ZAN
+MM,Cell-cell adhesion,ZAP70
+MM,Cell-cell adhesion,ZBTB1
+MM,Cell-cell adhesion,ZBTB16
+MM,Cell-cell adhesion,ZBTB7B
+MM,Cell-cell adhesion,ZC3H12A
+MM,Cell-cell adhesion,ZC3H8
+MM,Cell-cell adhesion,ZDHHC2
+MM,Cell-cell adhesion,ZDHHC21
+MM,Cell-cell adhesion,ZFP36L1
+MM,Cell-cell adhesion,ZMIZ1
+MM,Cell-cell adhesion,ZNF703
+MM,Cell-cell adhesion,ZP3
+MM,Cell-cell adhesion,ZP4
+MM,Protein complex involved in cell adhesion,CD28
+MM,Protein complex involved in cell adhesion,CD80
+MM,Protein complex involved in cell adhesion,CTLA4
+MM,Protein complex involved in cell adhesion,EMILIN1
+MM,Protein complex involved in cell adhesion,EMILIN2
+MM,Protein complex involved in cell adhesion,GLIPR1L1
+MM,Protein complex involved in cell adhesion,ITGA1
+MM,Protein complex involved in cell adhesion,ITGA10
+MM,Protein complex involved in cell adhesion,ITGA11
+MM,Protein complex involved in cell adhesion,ITGA2
+MM,Protein complex involved in cell adhesion,ITGA2B
+MM,Protein complex involved in cell adhesion,ITGA3
+MM,Protein complex involved in cell adhesion,ITGA4
+MM,Protein complex involved in cell adhesion,ITGA5
+MM,Protein complex involved in cell adhesion,ITGA6
+MM,Protein complex involved in cell adhesion,ITGA7
+MM,Protein complex involved in cell adhesion,ITGA8
+MM,Protein complex involved in cell adhesion,ITGA9
+MM,Protein complex involved in cell adhesion,ITGAD
+MM,Protein complex involved in cell adhesion,ITGAE
+MM,Protein complex involved in cell adhesion,ITGAL
+MM,Protein complex involved in cell adhesion,ITGAM
+MM,Protein complex involved in cell adhesion,ITGAV
+MM,Protein complex involved in cell adhesion,ITGAX
+MM,Protein complex involved in cell adhesion,ITGB1
+MM,Protein complex involved in cell adhesion,ITGB2
+MM,Protein complex involved in cell adhesion,ITGB3
+MM,Protein complex involved in cell adhesion,ITGB4
+MM,Protein complex involved in cell adhesion,ITGB5
+MM,Protein complex involved in cell adhesion,ITGB6
+MM,Protein complex involved in cell adhesion,ITGB7
+MM,Protein complex involved in cell adhesion,ITGB8
+MM,Protein complex involved in cell adhesion,ITGBL1
+MM,Protein complex involved in cell adhesion,IZUMO1
+MM,Protein complex involved in cell adhesion,JAM2
+MM,Protein complex involved in cell adhesion,JAM3
+MM,Protein complex involved in cell adhesion,LAMA1
+MM,Protein complex involved in cell adhesion,LAMA2
+MM,Protein complex involved in cell adhesion,LAMB1
+MM,Protein complex involved in cell adhesion,LAMB2
+MM,Protein complex involved in cell adhesion,LAMC1
+MM,Protein complex involved in cell adhesion,LGALS1
+MM,Protein complex involved in cell adhesion,LGALS2
+MM,Protein complex involved in cell adhesion,LYN
+MM,Protein complex involved in cell adhesion,MMRN1
+MM,Protein complex involved in cell adhesion,MMRN2
+MM,Protein complex involved in cell adhesion,NID1
+MM,Protein complex involved in cell adhesion,NLGN1
+MM,Protein complex involved in cell adhesion,PLAU
+MM,Protein complex involved in cell adhesion,PLAUR
+MM,Protein complex involved in cell adhesion,PLP1
+MM,Protein complex involved in cell adhesion,TNC
+MM,Protein complex involved in cell adhesion,TNN
+MM,Protein complex involved in cell adhesion,TNR
+MM,Protein complex involved in cell adhesion,TNXB
+MM,Protein complex involved in cell adhesion,TSPAN32
+MM,Protein complex involved in cell adhesion,VTN

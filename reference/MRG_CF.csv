@@ -1,0 +1,1284 @@
+category,GO_term,gene
+CF,Microtubule,ABRAXAS2
+CF,Microtubule,AKNA
+CF,Microtubule,APC
+CF,Microtubule,APC2
+CF,Microtubule,APPBP2
+CF,Microtubule,ARFGEF2
+CF,Microtubule,ARHGAP18
+CF,Microtubule,ARHGAP4
+CF,Microtubule,ARHGEF2
+CF,Microtubule,ARL3
+CF,Microtubule,ARL6
+CF,Microtubule,ASPM
+CF,Microtubule,ATAT1
+CF,Microtubule,AURKA
+CF,Microtubule,AURKB
+CF,Microtubule,AURKC
+CF,Microtubule,BAG2
+CF,Microtubule,BAIAP2
+CF,Microtubule,BBLN
+CF,Microtubule,BCAS3
+CF,Microtubule,BCL10
+CF,Microtubule,BEX4
+CF,Microtubule,BICD1
+CF,Microtubule,BIRC5
+CF,Microtubule,BOD1
+CF,Microtubule,CALM1
+CF,Microtubule,CALM2
+CF,Microtubule,CALM3
+CF,Microtubule,CAMSAP1
+CF,Microtubule,CAMSAP2
+CF,Microtubule,CAMSAP3
+CF,Microtubule,CAPN6
+CF,Microtubule,CASP1
+CF,Microtubule,CCDC181
+CF,Microtubule,CCDC57
+CF,Microtubule,CCDC66
+CF,Microtubule,CCSAP
+CF,Microtubule,CCT2
+CF,Microtubule,CCT3
+CF,Microtubule,CCT4
+CF,Microtubule,CCT5
+CF,Microtubule,CCT6A
+CF,Microtubule,CCT7
+CF,Microtubule,CCT8
+CF,Microtubule,CDK1
+CF,Microtubule,CDK2AP2
+CF,Microtubule,CDK5
+CF,Microtubule,CDK5RAP2
+CF,Microtubule,CDK5RAP3
+CF,Microtubule,CENPE
+CF,Microtubule,CENPJ
+CF,Microtubule,CEP162
+CF,Microtubule,CEP170
+CF,Microtubule,CEP170B
+CF,Microtubule,CEP295
+CF,Microtubule,CEP57
+CF,Microtubule,CEP57L1
+CF,Microtubule,CFAP107
+CF,Microtubule,CFAP126
+CF,Microtubule,CFAP141
+CF,Microtubule,CFAP144
+CF,Microtubule,CFAP161
+CF,Microtubule,CFAP20
+CF,Microtubule,CFAP206
+CF,Microtubule,CFAP210
+CF,Microtubule,CFAP276
+CF,Microtubule,CFAP45
+CF,Microtubule,CFAP52
+CF,Microtubule,CFAP53
+CF,Microtubule,CFAP77
+CF,Microtubule,CFAP95
+CF,Microtubule,CFAP96
+CF,Microtubule,CHMP1A
+CF,Microtubule,CHMP1B
+CF,Microtubule,CHMP2A
+CF,Microtubule,CHMP2B
+CF,Microtubule,CHMP3
+CF,Microtubule,CHMP4A
+CF,Microtubule,CHMP4B
+CF,Microtubule,CHMP4BP1
+CF,Microtubule,CHMP4C
+CF,Microtubule,CHMP5
+CF,Microtubule,CHMP6
+CF,Microtubule,CHMP7
+CF,Microtubule,CIMAP1D
+CF,Microtubule,CIMIP2B
+CF,Microtubule,CIMIP2C
+CF,Microtubule,CKAP2
+CF,Microtubule,CKAP5
+CF,Microtubule,CLASP1
+CF,Microtubule,CLASP2
+CF,Microtubule,CLIP1
+CF,Microtubule,CLIP2
+CF,Microtubule,CLIP3
+CF,Microtubule,CLIP4
+CF,Microtubule,CLMP
+CF,Microtubule,CLTC
+CF,Microtubule,CRHBP
+CF,Microtubule,CSNK1D
+CF,Microtubule,CSPP1
+CF,Microtubule,CSTPP1
+CF,Microtubule,CUL3
+CF,Microtubule,CYLD
+CF,Microtubule,CYP2A6
+CF,Microtubule,DCDC1
+CF,Microtubule,DCDC2
+CF,Microtubule,DCDC2B
+CF,Microtubule,DCDC2C
+CF,Microtubule,DCTN1
+CF,Microtubule,DCTN2
+CF,Microtubule,DCX
+CF,Microtubule,DCXR
+CF,Microtubule,DISC1
+CF,Microtubule,DLG1
+CF,Microtubule,DNAH1
+CF,Microtubule,DNAH10
+CF,Microtubule,DNAH11
+CF,Microtubule,DNAH12
+CF,Microtubule,DNAH14
+CF,Microtubule,DNAH17
+CF,Microtubule,DNAH2
+CF,Microtubule,DNAH3
+CF,Microtubule,DNAH5
+CF,Microtubule,DNAH6
+CF,Microtubule,DNAH7
+CF,Microtubule,DNAH8
+CF,Microtubule,DNAH9
+CF,Microtubule,DNAI1
+CF,Microtubule,DNAI2
+CF,Microtubule,DNAL1
+CF,Microtubule,DNAL4
+CF,Microtubule,DNM1
+CF,Microtubule,DNM1L
+CF,Microtubule,DNM2
+CF,Microtubule,DNM3
+CF,Microtubule,DPP9
+CF,Microtubule,DPYSL2
+CF,Microtubule,DST
+CF,Microtubule,DVL1
+CF,Microtubule,DYNC1H1
+CF,Microtubule,DYNC1I1
+CF,Microtubule,DYNC1I2
+CF,Microtubule,DYNC1LI1
+CF,Microtubule,DYNC1LI2
+CF,Microtubule,DYNC2H1
+CF,Microtubule,DYNC2LI1
+CF,Microtubule,DYNLL1
+CF,Microtubule,DYNLL2
+CF,Microtubule,DYNLRB1
+CF,Microtubule,DYNLRB2
+CF,Microtubule,DYNLT1
+CF,Microtubule,DYNLT2
+CF,Microtubule,DYNLT3
+CF,Microtubule,EFHB
+CF,Microtubule,EFHC1
+CF,Microtubule,EFHC2
+CF,Microtubule,EMD
+CF,Microtubule,EML1
+CF,Microtubule,EML2
+CF,Microtubule,EML3
+CF,Microtubule,EML4
+CF,Microtubule,EML5
+CF,Microtubule,EML6
+CF,Microtubule,ENKD1
+CF,Microtubule,ENKUR
+CF,Microtubule,FAM110A
+CF,Microtubule,FAM110C
+CF,Microtubule,FAM161A
+CF,Microtubule,FAM161B
+CF,Microtubule,FBXW11
+CF,Microtubule,FEZ1
+CF,Microtubule,FGF13
+CF,Microtubule,FHDC1
+CF,Microtubule,FIGN
+CF,Microtubule,FKBP4
+CF,Microtubule,FSD1
+CF,Microtubule,GABARAP
+CF,Microtubule,GABARAPL1
+CF,Microtubule,GABARAPL3
+CF,Microtubule,GAS2L1
+CF,Microtubule,GAS2L2
+CF,Microtubule,GAS2L3
+CF,Microtubule,GAS8
+CF,Microtubule,GOLGA2
+CF,Microtubule,GRAMD2B
+CF,Microtubule,GTSE1
+CF,Microtubule,HAUS1
+CF,Microtubule,HAUS2
+CF,Microtubule,HAUS3
+CF,Microtubule,HAUS4
+CF,Microtubule,HAUS5
+CF,Microtubule,HAUS6
+CF,Microtubule,HAUS7
+CF,Microtubule,HAUS8
+CF,Microtubule,HDAC6
+CF,Microtubule,HID1
+CF,Microtubule,HNRNPU
+CF,Microtubule,HOOK1
+CF,Microtubule,HOOK2
+CF,Microtubule,HOOK3
+CF,Microtubule,HSPH1
+CF,Microtubule,IFT70A
+CF,Microtubule,IFT70B
+CF,Microtubule,INCENP
+CF,Microtubule,INO80
+CF,Microtubule,INVS
+CF,Microtubule,IQGAP1
+CF,Microtubule,JAKMIP1
+CF,Microtubule,KATNA1
+CF,Microtubule,KATNAL1
+CF,Microtubule,KATNAL2
+CF,Microtubule,KATNB1
+CF,Microtubule,KCNAB2
+CF,Microtubule,KIF11
+CF,Microtubule,KIF12
+CF,Microtubule,KIF13A
+CF,Microtubule,KIF13B
+CF,Microtubule,KIF14
+CF,Microtubule,KIF15
+CF,Microtubule,KIF16B
+CF,Microtubule,KIF17
+CF,Microtubule,KIF18A
+CF,Microtubule,KIF18B
+CF,Microtubule,KIF19
+CF,Microtubule,KIF1A
+CF,Microtubule,KIF1B
+CF,Microtubule,KIF1C
+CF,Microtubule,KIF20A
+CF,Microtubule,KIF20B
+CF,Microtubule,KIF21A
+CF,Microtubule,KIF21B
+CF,Microtubule,KIF22
+CF,Microtubule,KIF23
+CF,Microtubule,KIF24
+CF,Microtubule,KIF25
+CF,Microtubule,KIF26A
+CF,Microtubule,KIF26B
+CF,Microtubule,KIF27
+CF,Microtubule,KIF28P
+CF,Microtubule,KIF2A
+CF,Microtubule,KIF2B
+CF,Microtubule,KIF2C
+CF,Microtubule,KIF3A
+CF,Microtubule,KIF3B
+CF,Microtubule,KIF3C
+CF,Microtubule,KIF4A
+CF,Microtubule,KIF4B
+CF,Microtubule,KIF5A
+CF,Microtubule,KIF5B
+CF,Microtubule,KIF5C
+CF,Microtubule,KIF6
+CF,Microtubule,KIF7
+CF,Microtubule,KIF9
+CF,Microtubule,KIFAP3
+CF,Microtubule,KIFC1
+CF,Microtubule,KIFC2
+CF,Microtubule,KIFC3
+CF,Microtubule,KLC1
+CF,Microtubule,KLC2
+CF,Microtubule,KLC3
+CF,Microtubule,KLC4
+CF,Microtubule,KLHL21
+CF,Microtubule,KLHL22
+CF,Microtubule,KNSTRN
+CF,Microtubule,KNTC1
+CF,Microtubule,LRPPRC
+CF,Microtubule,LRRC49
+CF,Microtubule,LZTS2
+CF,Microtubule,MACF1
+CF,Microtubule,MAP10
+CF,Microtubule,MAP1A
+CF,Microtubule,MAP1B
+CF,Microtubule,MAP1LC3A
+CF,Microtubule,MAP1LC3B
+CF,Microtubule,MAP1LC3B2
+CF,Microtubule,MAP1LC3C
+CF,Microtubule,MAP1S
+CF,Microtubule,MAP2
+CF,Microtubule,MAP2K2
+CF,Microtubule,MAP3K11
+CF,Microtubule,MAP4
+CF,Microtubule,MAP6
+CF,Microtubule,MAP6D1
+CF,Microtubule,MAP7
+CF,Microtubule,MAP9
+CF,Microtubule,MAPRE1
+CF,Microtubule,MAPRE2
+CF,Microtubule,MAPRE3
+CF,Microtubule,MAPT
+CF,Microtubule,MATCAP1
+CF,Microtubule,MDM1
+CF,Microtubule,MEFV
+CF,Microtubule,MID1
+CF,Microtubule,MID1IP1
+CF,Microtubule,MID2
+CF,Microtubule,MISP
+CF,Microtubule,MNS1
+CF,Microtubule,MT3
+CF,Microtubule,MTA1
+CF,Microtubule,MTCL1
+CF,Microtubule,MTCL2
+CF,Microtubule,MTUS1
+CF,Microtubule,MTUS2
+CF,Microtubule,MX1
+CF,Microtubule,MX2
+CF,Microtubule,NAV1
+CF,Microtubule,NAV3
+CF,Microtubule,NCKAP5
+CF,Microtubule,NCKAP5L
+CF,Microtubule,NDE1
+CF,Microtubule,NDEL1
+CF,Microtubule,NDRG1
+CF,Microtubule,NEK2
+CF,Microtubule,NEK6
+CF,Microtubule,NEK7
+CF,Microtubule,NICN1
+CF,Microtubule,NIN
+CF,Microtubule,NINL
+CF,Microtubule,NME7
+CF,Microtubule,NUDC
+CF,Microtubule,NUMA1
+CF,Microtubule,NUSAP1
+CF,Microtubule,ODF2
+CF,Microtubule,OPA1
+CF,Microtubule,PACRG
+CF,Microtubule,PAFAH1B1
+CF,Microtubule,PARP4
+CF,Microtubule,PBXIP1
+CF,Microtubule,PCNT
+CF,Microtubule,PIERCE1
+CF,Microtubule,PIERCE2
+CF,Microtubule,PLK1
+CF,Microtubule,POLB
+CF,Microtubule,PRC1
+CF,Microtubule,PSRC1
+CF,Microtubule,PTPN20
+CF,Microtubule,PYCARD
+CF,Microtubule,RAB11A
+CF,Microtubule,RAB3D
+CF,Microtubule,RACGAP1
+CF,Microtubule,RADIL
+CF,Microtubule,RASSF1
+CF,Microtubule,RASSF3
+CF,Microtubule,RASSF5
+CF,Microtubule,RCC2
+CF,Microtubule,REEP1
+CF,Microtubule,REEP2
+CF,Microtubule,REEP3
+CF,Microtubule,REEP4
+CF,Microtubule,RGS14
+CF,Microtubule,RIBC2
+CF,Microtubule,RMDN1
+CF,Microtubule,RMDN2
+CF,Microtubule,RMDN3
+CF,Microtubule,RNF4
+CF,Microtubule,ROR2
+CF,Microtubule,RP1
+CF,Microtubule,RP1L1
+CF,Microtubule,RPGRIP1L
+CF,Microtubule,RUSC1
+CF,Microtubule,SAA1
+CF,Microtubule,SARM1
+CF,Microtubule,SAXO1
+CF,Microtubule,SAXO2
+CF,Microtubule,SCTR
+CF,Microtubule,SELENOS
+CF,Microtubule,SEPTIN9
+CF,Microtubule,SERP1
+CF,Microtubule,SHROOM1
+CF,Microtubule,SHROOM2
+CF,Microtubule,SHROOM3
+CF,Microtubule,SHTN1
+CF,Microtubule,SIRT2
+CF,Microtubule,SKA1
+CF,Microtubule,SKA2
+CF,Microtubule,SKA3
+CF,Microtubule,SLAIN1
+CF,Microtubule,SLAIN2
+CF,Microtubule,SNPH
+CF,Microtubule,SNTB2
+CF,Microtubule,SPACA9
+CF,Microtubule,SPAG17
+CF,Microtubule,SPAG5
+CF,Microtubule,SPAG6
+CF,Microtubule,SPAG8
+CF,Microtubule,SPAST
+CF,Microtubule,SPEF1
+CF,Microtubule,SPRY2
+CF,Microtubule,SRPRB
+CF,Microtubule,STAU2
+CF,Microtubule,STIM1
+CF,Microtubule,STMN1
+CF,Microtubule,SVIL
+CF,Microtubule,SYBU
+CF,Microtubule,SYNJ1
+CF,Microtubule,TBCA
+CF,Microtubule,TBCB
+CF,Microtubule,TBCC
+CF,Microtubule,TBCD
+CF,Microtubule,TBCE
+CF,Microtubule,TCP1
+CF,Microtubule,TCP11L1
+CF,Microtubule,TEKT1
+CF,Microtubule,TEKT2
+CF,Microtubule,TEKT3
+CF,Microtubule,TEKT4
+CF,Microtubule,TEKTIP1
+CF,Microtubule,TIAM1
+CF,Microtubule,TMEM214
+CF,Microtubule,TOGARAM1
+CF,Microtubule,TOGARAM2
+CF,Microtubule,TPGS1
+CF,Microtubule,TPGS2
+CF,Microtubule,TPPP
+CF,Microtubule,TPPP2
+CF,Microtubule,TPPP3
+CF,Microtubule,TPT1
+CF,Microtubule,TPX2
+CF,Microtubule,TRIM54
+CF,Microtubule,TRIM55
+CF,Microtubule,TRIM63
+CF,Microtubule,TRPV4
+CF,Microtubule,TTL
+CF,Microtubule,TTLL1
+CF,Microtubule,TTLL11
+CF,Microtubule,TTLL13
+CF,Microtubule,TTLL3
+CF,Microtubule,TTLL4
+CF,Microtubule,TTLL5
+CF,Microtubule,TTLL6
+CF,Microtubule,TTLL7
+CF,Microtubule,TTLL8
+CF,Microtubule,TTLL9
+CF,Microtubule,TUBA1A
+CF,Microtubule,TUBA1B
+CF,Microtubule,TUBA1C
+CF,Microtubule,TUBA3C
+CF,Microtubule,TUBA3D
+CF,Microtubule,TUBA3E
+CF,Microtubule,TUBA4A
+CF,Microtubule,TUBA4B
+CF,Microtubule,TUBA8
+CF,Microtubule,TUBAL3
+CF,Microtubule,TUBB
+CF,Microtubule,TUBB1
+CF,Microtubule,TUBB2A
+CF,Microtubule,TUBB2B
+CF,Microtubule,TUBB3
+CF,Microtubule,TUBB4A
+CF,Microtubule,TUBB4B
+CF,Microtubule,TUBB6
+CF,Microtubule,TUBB8
+CF,Microtubule,TUBB8B
+CF,Microtubule,TUBD1
+CF,Microtubule,TUBE1
+CF,Microtubule,TUBG1
+CF,Microtubule,TUBG2
+CF,Microtubule,TUBGCP2
+CF,Microtubule,TUBGCP3
+CF,Microtubule,TUBGCP4
+CF,Microtubule,TUBGCP5
+CF,Microtubule,TUBGCP6
+CF,Microtubule,WDR47
+CF,Microtubule,WHAMM
+CF,Microtubule,ZNF207
+CF,Microtubule,ZNF804A
+CF,Microtubule,ZW10
+CF,Microtubule,ZWILCH
+CF,Actin cytoskeleton,ABL1
+CF,Actin cytoskeleton,ABL2
+CF,Actin cytoskeleton,ABLIM1
+CF,Actin cytoskeleton,ABLIM2
+CF,Actin cytoskeleton,ABLIM3
+CF,Actin cytoskeleton,ABRA
+CF,Actin cytoskeleton,ACACA
+CF,Actin cytoskeleton,ACKR2
+CF,Actin cytoskeleton,ACTA1
+CF,Actin cytoskeleton,ACTA2
+CF,Actin cytoskeleton,ACTB
+CF,Actin cytoskeleton,ACTBL2
+CF,Actin cytoskeleton,ACTC1
+CF,Actin cytoskeleton,ACTG1
+CF,Actin cytoskeleton,ACTL7B
+CF,Actin cytoskeleton,ACTL8
+CF,Actin cytoskeleton,ACTL9
+CF,Actin cytoskeleton,ACTN1
+CF,Actin cytoskeleton,ACTN2
+CF,Actin cytoskeleton,ACTN3
+CF,Actin cytoskeleton,ACTN4
+CF,Actin cytoskeleton,ACTR10
+CF,Actin cytoskeleton,ACTR1A
+CF,Actin cytoskeleton,ACTR1B
+CF,Actin cytoskeleton,ACTR2
+CF,Actin cytoskeleton,ACTR3
+CF,Actin cytoskeleton,ADAM17
+CF,Actin cytoskeleton,ADAM8
+CF,Actin cytoskeleton,ADCY8
+CF,Actin cytoskeleton,ADD1
+CF,Actin cytoskeleton,ADD2
+CF,Actin cytoskeleton,AFAP1
+CF,Actin cytoskeleton,AFAP1L1
+CF,Actin cytoskeleton,AHNAK
+CF,Actin cytoskeleton,AIF1
+CF,Actin cytoskeleton,AIF1L
+CF,Actin cytoskeleton,AKAP13
+CF,Actin cytoskeleton,ALDOA
+CF,Actin cytoskeleton,AMOT
+CF,Actin cytoskeleton,AMPH
+CF,Actin cytoskeleton,ANG
+CF,Actin cytoskeleton,ANKRD23
+CF,Actin cytoskeleton,ANLN
+CF,Actin cytoskeleton,ANXA1
+CF,Actin cytoskeleton,APBB3
+CF,Actin cytoskeleton,APC2
+CF,Actin cytoskeleton,ARC
+CF,Actin cytoskeleton,ARHGAP21
+CF,Actin cytoskeleton,ARHGAP32
+CF,Actin cytoskeleton,ARHGAP33
+CF,Actin cytoskeleton,ARHGAP35
+CF,Actin cytoskeleton,ARHGAP6
+CF,Actin cytoskeleton,ARHGEF5
+CF,Actin cytoskeleton,ARPC1A
+CF,Actin cytoskeleton,ARPC1B
+CF,Actin cytoskeleton,ARPC2
+CF,Actin cytoskeleton,ARPC3
+CF,Actin cytoskeleton,ARPC4
+CF,Actin cytoskeleton,ARPC5
+CF,Actin cytoskeleton,ARPC5L
+CF,Actin cytoskeleton,ARSJ
+CF,Actin cytoskeleton,ASAP1
+CF,Actin cytoskeleton,ASB2
+CF,Actin cytoskeleton,ATP12A
+CF,Actin cytoskeleton,AUTS2
+CF,Actin cytoskeleton,AVIL
+CF,Actin cytoskeleton,AXL
+CF,Actin cytoskeleton,BAG3
+CF,Actin cytoskeleton,BAIAP2
+CF,Actin cytoskeleton,BAIAP2L1
+CF,Actin cytoskeleton,BARX2
+CF,Actin cytoskeleton,BCAR1
+CF,Actin cytoskeleton,BIN1
+CF,Actin cytoskeleton,BIN2
+CF,Actin cytoskeleton,BIN3
+CF,Actin cytoskeleton,BMF
+CF,Actin cytoskeleton,BPIFB4
+CF,Actin cytoskeleton,C10orf90
+CF,Actin cytoskeleton,CALB1
+CF,Actin cytoskeleton,CALD1
+CF,Actin cytoskeleton,CAP1
+CF,Actin cytoskeleton,CAPG
+CF,Actin cytoskeleton,CAPN2
+CF,Actin cytoskeleton,CAPZA1
+CF,Actin cytoskeleton,CAPZA2
+CF,Actin cytoskeleton,CAPZA3
+CF,Actin cytoskeleton,CAPZB
+CF,Actin cytoskeleton,CARMIL1
+CF,Actin cytoskeleton,CARMIL2
+CF,Actin cytoskeleton,CASK
+CF,Actin cytoskeleton,CATIP
+CF,Actin cytoskeleton,CCDC102A
+CF,Actin cytoskeleton,CD274
+CF,Actin cytoskeleton,CD2AP
+CF,Actin cytoskeleton,CDC42BPA
+CF,Actin cytoskeleton,CDC42BPB
+CF,Actin cytoskeleton,CDC42EP3
+CF,Actin cytoskeleton,CDC42EP4
+CF,Actin cytoskeleton,CDH1
+CF,Actin cytoskeleton,CDH2
+CF,Actin cytoskeleton,CENPQ
+CF,Actin cytoskeleton,CFL1
+CF,Actin cytoskeleton,CFL2
+CF,Actin cytoskeleton,CGN
+CF,Actin cytoskeleton,CGNL1
+CF,Actin cytoskeleton,CIB2
+CF,Actin cytoskeleton,CLDN5
+CF,Actin cytoskeleton,CLIC4
+CF,Actin cytoskeleton,CLIC5
+CF,Actin cytoskeleton,CNN1
+CF,Actin cytoskeleton,CNN2
+CF,Actin cytoskeleton,CNN3
+CF,Actin cytoskeleton,CNR1
+CF,Actin cytoskeleton,COBL
+CF,Actin cytoskeleton,CORIN
+CF,Actin cytoskeleton,CORO1A
+CF,Actin cytoskeleton,CORO1B
+CF,Actin cytoskeleton,CORO1C
+CF,Actin cytoskeleton,CORO2B
+CF,Actin cytoskeleton,COTL1
+CF,Actin cytoskeleton,CRK
+CF,Actin cytoskeleton,CROCC
+CF,Actin cytoskeleton,CRYAB
+CF,Actin cytoskeleton,CTNNA1
+CF,Actin cytoskeleton,CTNNA2
+CF,Actin cytoskeleton,CTTN
+CF,Actin cytoskeleton,CTTNBP2
+CF,Actin cytoskeleton,CTTNBP2NL
+CF,Actin cytoskeleton,DAAM1
+CF,Actin cytoskeleton,DAPK1
+CF,Actin cytoskeleton,DBN1
+CF,Actin cytoskeleton,DBNL
+CF,Actin cytoskeleton,DCTN2
+CF,Actin cytoskeleton,DCTN3
+CF,Actin cytoskeleton,DCTN4
+CF,Actin cytoskeleton,DCTN5
+CF,Actin cytoskeleton,DCTN6
+CF,Actin cytoskeleton,DDR2
+CF,Actin cytoskeleton,DENND2A
+CF,Actin cytoskeleton,DGKH
+CF,Actin cytoskeleton,DHX9
+CF,Actin cytoskeleton,DIAPH1
+CF,Actin cytoskeleton,DIAPH2
+CF,Actin cytoskeleton,DIAPH3
+CF,Actin cytoskeleton,DIXDC1
+CF,Actin cytoskeleton,DLC1
+CF,Actin cytoskeleton,DMTN
+CF,Actin cytoskeleton,DNAJA3
+CF,Actin cytoskeleton,DNM2
+CF,Actin cytoskeleton,DOCK5
+CF,Actin cytoskeleton,DPYSL3
+CF,Actin cytoskeleton,DST
+CF,Actin cytoskeleton,DSTN
+CF,Actin cytoskeleton,DUSP22
+CF,Actin cytoskeleton,DYNLL2
+CF,Actin cytoskeleton,EEF1A1
+CF,Actin cytoskeleton,EFR3B
+CF,Actin cytoskeleton,EPB41L2
+CF,Actin cytoskeleton,EPHA3
+CF,Actin cytoskeleton,ESPN
+CF,Actin cytoskeleton,EVL
+CF,Actin cytoskeleton,EZR
+CF,Actin cytoskeleton,FAM107A
+CF,Actin cytoskeleton,FBLIM1
+CF,Actin cytoskeleton,FCHSD1
+CF,Actin cytoskeleton,FER
+CF,Actin cytoskeleton,FERMT2
+CF,Actin cytoskeleton,FERMT3
+CF,Actin cytoskeleton,FGR
+CF,Actin cytoskeleton,FHDC1
+CF,Actin cytoskeleton,FHL3
+CF,Actin cytoskeleton,FHOD1
+CF,Actin cytoskeleton,FILIP1
+CF,Actin cytoskeleton,FKBP15
+CF,Actin cytoskeleton,FLII
+CF,Actin cytoskeleton,FLNA
+CF,Actin cytoskeleton,FLNB
+CF,Actin cytoskeleton,FLOT1
+CF,Actin cytoskeleton,FLOT2
+CF,Actin cytoskeleton,FLT1
+CF,Actin cytoskeleton,FMN1
+CF,Actin cytoskeleton,FMN2
+CF,Actin cytoskeleton,FOXA3
+CF,Actin cytoskeleton,FSCN1
+CF,Actin cytoskeleton,FSCN2
+CF,Actin cytoskeleton,FSCN3
+CF,Actin cytoskeleton,FYB1
+CF,Actin cytoskeleton,FYN
+CF,Actin cytoskeleton,GABARAP
+CF,Actin cytoskeleton,GAS2
+CF,Actin cytoskeleton,GAS2L1
+CF,Actin cytoskeleton,GAS2L2
+CF,Actin cytoskeleton,GAS2L3
+CF,Actin cytoskeleton,GAS7
+CF,Actin cytoskeleton,GBP1
+CF,Actin cytoskeleton,GDPD2
+CF,Actin cytoskeleton,GFRAL
+CF,Actin cytoskeleton,GJB6
+CF,Actin cytoskeleton,GSN
+CF,Actin cytoskeleton,GYS2
+CF,Actin cytoskeleton,H1-0
+CF,Actin cytoskeleton,HAP1
+CF,Actin cytoskeleton,HAX1
+CF,Actin cytoskeleton,HCK
+CF,Actin cytoskeleton,HNRNPC
+CF,Actin cytoskeleton,HNRNPK
+CF,Actin cytoskeleton,HSPB7
+CF,Actin cytoskeleton,IFIT5
+CF,Actin cytoskeleton,ILK
+CF,Actin cytoskeleton,INF2
+CF,Actin cytoskeleton,INTS6
+CF,Actin cytoskeleton,IPP
+CF,Actin cytoskeleton,IQCG
+CF,Actin cytoskeleton,IQGAP1
+CF,Actin cytoskeleton,IQGAP2
+CF,Actin cytoskeleton,ITPKA
+CF,Actin cytoskeleton,JAM3
+CF,Actin cytoskeleton,KALRN
+CF,Actin cytoskeleton,KANSL2
+CF,Actin cytoskeleton,KAT2B
+CF,Actin cytoskeleton,KEAP1
+CF,Actin cytoskeleton,KIF9
+CF,Actin cytoskeleton,KLHL14
+CF,Actin cytoskeleton,KLHL17
+CF,Actin cytoskeleton,KLHL2
+CF,Actin cytoskeleton,KLHL20
+CF,Actin cytoskeleton,KNCN
+CF,Actin cytoskeleton,KNTC1
+CF,Actin cytoskeleton,KPTN
+CF,Actin cytoskeleton,KRT19
+CF,Actin cytoskeleton,LAD1
+CF,Actin cytoskeleton,LANCL2
+CF,Actin cytoskeleton,LASP1
+CF,Actin cytoskeleton,LCP1
+CF,Actin cytoskeleton,LDB3
+CF,Actin cytoskeleton,LIMA1
+CF,Actin cytoskeleton,LIMCH1
+CF,Actin cytoskeleton,LIMD2
+CF,Actin cytoskeleton,LLGL1
+CF,Actin cytoskeleton,LLGL2
+CF,Actin cytoskeleton,LMOD1
+CF,Actin cytoskeleton,LMOD2
+CF,Actin cytoskeleton,LMOD3
+CF,Actin cytoskeleton,LPP
+CF,Actin cytoskeleton,LPXN
+CF,Actin cytoskeleton,LSP1
+CF,Actin cytoskeleton,MACF1
+CF,Actin cytoskeleton,MAEA
+CF,Actin cytoskeleton,MARCKS
+CF,Actin cytoskeleton,MARK2
+CF,Actin cytoskeleton,MED28
+CF,Actin cytoskeleton,MICAL1
+CF,Actin cytoskeleton,MICAL2
+CF,Actin cytoskeleton,MICALL2
+CF,Actin cytoskeleton,MISP
+CF,Actin cytoskeleton,MLPH
+CF,Actin cytoskeleton,MPP4
+CF,Actin cytoskeleton,MPRIP
+CF,Actin cytoskeleton,MSRA
+CF,Actin cytoskeleton,MSRB1
+CF,Actin cytoskeleton,MST1R
+CF,Actin cytoskeleton,MTPN
+CF,Actin cytoskeleton,MTSS1
+CF,Actin cytoskeleton,MTSS2
+CF,Actin cytoskeleton,MYADM
+CF,Actin cytoskeleton,MYH1
+CF,Actin cytoskeleton,MYH10
+CF,Actin cytoskeleton,MYH11
+CF,Actin cytoskeleton,MYH13
+CF,Actin cytoskeleton,MYH14
+CF,Actin cytoskeleton,MYH15
+CF,Actin cytoskeleton,MYH16
+CF,Actin cytoskeleton,MYH2
+CF,Actin cytoskeleton,MYH3
+CF,Actin cytoskeleton,MYH4
+CF,Actin cytoskeleton,MYH6
+CF,Actin cytoskeleton,MYH7
+CF,Actin cytoskeleton,MYH7B
+CF,Actin cytoskeleton,MYH8
+CF,Actin cytoskeleton,MYH9
+CF,Actin cytoskeleton,MYL1
+CF,Actin cytoskeleton,MYL11
+CF,Actin cytoskeleton,MYL12A
+CF,Actin cytoskeleton,MYL12B
+CF,Actin cytoskeleton,MYL2
+CF,Actin cytoskeleton,MYL3
+CF,Actin cytoskeleton,MYL4
+CF,Actin cytoskeleton,MYL5
+CF,Actin cytoskeleton,MYL6
+CF,Actin cytoskeleton,MYL6B
+CF,Actin cytoskeleton,MYL7
+CF,Actin cytoskeleton,MYL9
+CF,Actin cytoskeleton,MYLK
+CF,Actin cytoskeleton,MYLK3
+CF,Actin cytoskeleton,MYO10
+CF,Actin cytoskeleton,MYO15A
+CF,Actin cytoskeleton,MYO16
+CF,Actin cytoskeleton,MYO18A
+CF,Actin cytoskeleton,MYO18B
+CF,Actin cytoskeleton,MYO19
+CF,Actin cytoskeleton,MYO1A
+CF,Actin cytoskeleton,MYO1B
+CF,Actin cytoskeleton,MYO1C
+CF,Actin cytoskeleton,MYO1D
+CF,Actin cytoskeleton,MYO1E
+CF,Actin cytoskeleton,MYO1F
+CF,Actin cytoskeleton,MYO1G
+CF,Actin cytoskeleton,MYO1H
+CF,Actin cytoskeleton,MYO3A
+CF,Actin cytoskeleton,MYO3B
+CF,Actin cytoskeleton,MYO5A
+CF,Actin cytoskeleton,MYO5B
+CF,Actin cytoskeleton,MYO5C
+CF,Actin cytoskeleton,MYO6
+CF,Actin cytoskeleton,MYO7A
+CF,Actin cytoskeleton,MYO7B
+CF,Actin cytoskeleton,MYO9A
+CF,Actin cytoskeleton,MYO9B
+CF,Actin cytoskeleton,MYOT
+CF,Actin cytoskeleton,MYOZ1
+CF,Actin cytoskeleton,MYOZ2
+CF,Actin cytoskeleton,MYOZ3
+CF,Actin cytoskeleton,MYRIP
+CF,Actin cytoskeleton,MYZAP
+CF,Actin cytoskeleton,NCKAP1
+CF,Actin cytoskeleton,NCOA5
+CF,Actin cytoskeleton,NDC1
+CF,Actin cytoskeleton,NEB
+CF,Actin cytoskeleton,NEBL
+CF,Actin cytoskeleton,NEURL1B
+CF,Actin cytoskeleton,NEXN
+CF,Actin cytoskeleton,NF2
+CF,Actin cytoskeleton,NHERF1
+CF,Actin cytoskeleton,NOS1AP
+CF,Actin cytoskeleton,NPFFR2
+CF,Actin cytoskeleton,NPM3
+CF,Actin cytoskeleton,NTN1
+CF,Actin cytoskeleton,ONECUT2
+CF,Actin cytoskeleton,OPHN1
+CF,Actin cytoskeleton,PAK1
+CF,Actin cytoskeleton,PALLD
+CF,Actin cytoskeleton,PARVA
+CF,Actin cytoskeleton,PARVB
+CF,Actin cytoskeleton,PARVG
+CF,Actin cytoskeleton,PAWR
+CF,Actin cytoskeleton,PDCD6IP
+CF,Actin cytoskeleton,PDLIM1
+CF,Actin cytoskeleton,PDLIM2
+CF,Actin cytoskeleton,PDLIM3
+CF,Actin cytoskeleton,PDLIM4
+CF,Actin cytoskeleton,PDLIM5
+CF,Actin cytoskeleton,PDLIM7
+CF,Actin cytoskeleton,PDXP
+CF,Actin cytoskeleton,PEAK1
+CF,Actin cytoskeleton,PEAK3
+CF,Actin cytoskeleton,PGM5
+CF,Actin cytoskeleton,PJVK
+CF,Actin cytoskeleton,PKD2L1
+CF,Actin cytoskeleton,PKNOX2
+CF,Actin cytoskeleton,PLEKHH2
+CF,Actin cytoskeleton,PLS1
+CF,Actin cytoskeleton,PLS3
+CF,Actin cytoskeleton,POF1B
+CF,Actin cytoskeleton,POTEE
+CF,Actin cytoskeleton,POTEF
+CF,Actin cytoskeleton,POTEI
+CF,Actin cytoskeleton,POTEJ
+CF,Actin cytoskeleton,POTEKP
+CF,Actin cytoskeleton,PPP1R12A
+CF,Actin cytoskeleton,PPP1R12B
+CF,Actin cytoskeleton,PPP1R12C
+CF,Actin cytoskeleton,PPP1R9A
+CF,Actin cytoskeleton,PPP1R9B
+CF,Actin cytoskeleton,PRICKLE4
+CF,Actin cytoskeleton,PRKCB
+CF,Actin cytoskeleton,PRKCZ
+CF,Actin cytoskeleton,PSTPIP1
+CF,Actin cytoskeleton,PSTPIP2
+CF,Actin cytoskeleton,PTK2
+CF,Actin cytoskeleton,PTPN12
+CF,Actin cytoskeleton,PVALEF
+CF,Actin cytoskeleton,PXN
+CF,Actin cytoskeleton,RAB22A
+CF,Actin cytoskeleton,RAB5A
+CF,Actin cytoskeleton,RAC1
+CF,Actin cytoskeleton,RAC2
+CF,Actin cytoskeleton,RAC3
+CF,Actin cytoskeleton,RAI14
+CF,Actin cytoskeleton,RAPGEF3
+CF,Actin cytoskeleton,RARA
+CF,Actin cytoskeleton,RCSD1
+CF,Actin cytoskeleton,RDX
+CF,Actin cytoskeleton,RFLNA
+CF,Actin cytoskeleton,RFLNB
+CF,Actin cytoskeleton,RGS22
+CF,Actin cytoskeleton,RHOQ
+CF,Actin cytoskeleton,RHOU
+CF,Actin cytoskeleton,RIGI
+CF,Actin cytoskeleton,RINL
+CF,Actin cytoskeleton,RND1
+CF,Actin cytoskeleton,ROR1
+CF,Actin cytoskeleton,RTKN
+CF,Actin cytoskeleton,SAMD14
+CF,Actin cytoskeleton,SCIN
+CF,Actin cytoskeleton,SCNN1D
+CF,Actin cytoskeleton,SEPTIN11
+CF,Actin cytoskeleton,SEPTIN12
+CF,Actin cytoskeleton,SEPTIN2
+CF,Actin cytoskeleton,SEPTIN7
+CF,Actin cytoskeleton,SEPTIN9
+CF,Actin cytoskeleton,SH2B2
+CF,Actin cytoskeleton,SH3GL1
+CF,Actin cytoskeleton,SH3PXD2A
+CF,Actin cytoskeleton,SH3PXD2B
+CF,Actin cytoskeleton,SHLD2
+CF,Actin cytoskeleton,SHROOM1
+CF,Actin cytoskeleton,SHROOM2
+CF,Actin cytoskeleton,SHROOM3
+CF,Actin cytoskeleton,SHROOM4
+CF,Actin cytoskeleton,SIPA1L1
+CF,Actin cytoskeleton,SIPA1L3
+CF,Actin cytoskeleton,SLC2A1
+CF,Actin cytoskeleton,SMTN
+CF,Actin cytoskeleton,SMTNL1
+CF,Actin cytoskeleton,SMTNL2
+CF,Actin cytoskeleton,SNAP25
+CF,Actin cytoskeleton,SNCA
+CF,Actin cytoskeleton,SNX9
+CF,Actin cytoskeleton,SORBS1
+CF,Actin cytoskeleton,SORBS2
+CF,Actin cytoskeleton,SPECC1
+CF,Actin cytoskeleton,SPECC1L
+CF,Actin cytoskeleton,SPEF1
+CF,Actin cytoskeleton,SPPL2B
+CF,Actin cytoskeleton,SPRY2
+CF,Actin cytoskeleton,SPTA1
+CF,Actin cytoskeleton,SPTAN1
+CF,Actin cytoskeleton,SPTB
+CF,Actin cytoskeleton,SPTBN1
+CF,Actin cytoskeleton,SPTBN2
+CF,Actin cytoskeleton,SPTBN4
+CF,Actin cytoskeleton,SPTBN5
+CF,Actin cytoskeleton,SRC
+CF,Actin cytoskeleton,SRCIN1
+CF,Actin cytoskeleton,STK17B
+CF,Actin cytoskeleton,STK38L
+CF,Actin cytoskeleton,STOML2
+CF,Actin cytoskeleton,SVIL
+CF,Actin cytoskeleton,SWAP70
+CF,Actin cytoskeleton,SYNPO
+CF,Actin cytoskeleton,SYNPO2
+CF,Actin cytoskeleton,SYNPO2L
+CF,Actin cytoskeleton,TAF5
+CF,Actin cytoskeleton,TAGLN2
+CF,Actin cytoskeleton,TAGLN3
+CF,Actin cytoskeleton,TAOK2
+CF,Actin cytoskeleton,TAX1BP3
+CF,Actin cytoskeleton,TEK
+CF,Actin cytoskeleton,TFPT
+CF,Actin cytoskeleton,TJP1
+CF,Actin cytoskeleton,TLN2
+CF,Actin cytoskeleton,TLNRD1
+CF,Actin cytoskeleton,TMEM63B
+CF,Actin cytoskeleton,TMOD1
+CF,Actin cytoskeleton,TMOD2
+CF,Actin cytoskeleton,TMOD3
+CF,Actin cytoskeleton,TMOD4
+CF,Actin cytoskeleton,TNNC1
+CF,Actin cytoskeleton,TNNC2
+CF,Actin cytoskeleton,TNNI1
+CF,Actin cytoskeleton,TNNI2
+CF,Actin cytoskeleton,TNNI3
+CF,Actin cytoskeleton,TNNT1
+CF,Actin cytoskeleton,TNNT2
+CF,Actin cytoskeleton,TNNT3
+CF,Actin cytoskeleton,TNS3
+CF,Actin cytoskeleton,TOPBP1
+CF,Actin cytoskeleton,TPM1
+CF,Actin cytoskeleton,TPM2
+CF,Actin cytoskeleton,TPM3
+CF,Actin cytoskeleton,TPM4
+CF,Actin cytoskeleton,TRIOBP
+CF,Actin cytoskeleton,TRIP6
+CF,Actin cytoskeleton,TRMT10A
+CF,Actin cytoskeleton,TRPV4
+CF,Actin cytoskeleton,TSC1
+CF,Actin cytoskeleton,TSPAN5
+CF,Actin cytoskeleton,TTC17
+CF,Actin cytoskeleton,TWF1
+CF,Actin cytoskeleton,TWF2
+CF,Actin cytoskeleton,USH1G
+CF,Actin cytoskeleton,VASP
+CF,Actin cytoskeleton,VCAM1
+CF,Actin cytoskeleton,VCL
+CF,Actin cytoskeleton,VIL1
+CF,Actin cytoskeleton,VILL
+CF,Actin cytoskeleton,VPS18
+CF,Actin cytoskeleton,WAS
+CF,Actin cytoskeleton,WASF1
+CF,Actin cytoskeleton,WASF2
+CF,Actin cytoskeleton,WASL
+CF,Actin cytoskeleton,WDR1
+CF,Actin cytoskeleton,WHRN
+CF,Actin cytoskeleton,WIPF1
+CF,Actin cytoskeleton,XIRP1
+CF,Actin cytoskeleton,XIRP2
+CF,Actin cytoskeleton,YES1
+CF,Actin cytoskeleton,ZNF664-RFLNA
+CF,Actin cytoskeleton,ZNF74
+CF,Actin cytoskeleton,ZYX
+CF,Actin filament polymerization,ABITRAM
+CF,Actin filament polymerization,ABL1
+CF,Actin filament polymerization,ADD1
+CF,Actin filament polymerization,ADD2
+CF,Actin filament polymerization,ADD3
+CF,Actin filament polymerization,AIF1
+CF,Actin filament polymerization,ALOX15
+CF,Actin filament polymerization,ANG
+CF,Actin filament polymerization,ARF6
+CF,Actin filament polymerization,ARFGEF1
+CF,Actin filament polymerization,ARHGAP18
+CF,Actin filament polymerization,ARHGAP28
+CF,Actin filament polymerization,ARHGAP40
+CF,Actin filament polymerization,ARHGAP6
+CF,Actin filament polymerization,ARPC2
+CF,Actin filament polymerization,ARPC3
+CF,Actin filament polymerization,ARPC4
+CF,Actin filament polymerization,ARPC5
+CF,Actin filament polymerization,ARPC5L
+CF,Actin filament polymerization,AVIL
+CF,Actin filament polymerization,BAG4
+CF,Actin filament polymerization,BAIAP2
+CF,Actin filament polymerization,BAIAP2L1
+CF,Actin filament polymerization,BAIAP2L2
+CF,Actin filament polymerization,BBS4
+CF,Actin filament polymerization,BIN1
+CF,Actin filament polymerization,C15orf62
+CF,Actin filament polymerization,CAPG
+CF,Actin filament polymerization,CAPZA1
+CF,Actin filament polymerization,CAPZA2
+CF,Actin filament polymerization,CAPZA3
+CF,Actin filament polymerization,CAPZB
+CF,Actin filament polymerization,CARMIL1
+CF,Actin filament polymerization,CARMIL2
+CF,Actin filament polymerization,CATIP
+CF,Actin filament polymerization,CCL11
+CF,Actin filament polymerization,CCL21
+CF,Actin filament polymerization,CCL24
+CF,Actin filament polymerization,CCL26
+CF,Actin filament polymerization,CCR7
+CF,Actin filament polymerization,CDC42EP1
+CF,Actin filament polymerization,CDC42EP2
+CF,Actin filament polymerization,CDC42EP3
+CF,Actin filament polymerization,CDC42EP4
+CF,Actin filament polymerization,CDC42EP5
+CF,Actin filament polymerization,COBL
+CF,Actin filament polymerization,CORO1A
+CF,Actin filament polymerization,CORO7
+CF,Actin filament polymerization,COTL1
+CF,Actin filament polymerization,CRACD
+CF,Actin filament polymerization,CSF3
+CF,Actin filament polymerization,CTTN
+CF,Actin filament polymerization,CYFIP1
+CF,Actin filament polymerization,CYFIP2
+CF,Actin filament polymerization,CYRIA
+CF,Actin filament polymerization,CYRIB
+CF,Actin filament polymerization,DAAM2
+CF,Actin filament polymerization,DIAPH1
+CF,Actin filament polymerization,DIAPH2
+CF,Actin filament polymerization,DIAPH3
+CF,Actin filament polymerization,DLG1
+CF,Actin filament polymerization,DMTN
+CF,Actin filament polymerization,ELN
+CF,Actin filament polymerization,EPS8
+CF,Actin filament polymerization,ESAM
+CF,Actin filament polymerization,EVL
+CF,Actin filament polymerization,FAM107A
+CF,Actin filament polymerization,FCHSD1
+CF,Actin filament polymerization,FCHSD2
+CF,Actin filament polymerization,FER
+CF,Actin filament polymerization,FHDC1
+CF,Actin filament polymerization,FHOD3
+CF,Actin filament polymerization,FLII
+CF,Actin filament polymerization,FMN1
+CF,Actin filament polymerization,GAS7
+CF,Actin filament polymerization,GBA2
+CF,Actin filament polymerization,GRB2
+CF,Actin filament polymerization,GSN
+CF,Actin filament polymerization,HAX1
+CF,Actin filament polymerization,HCK
+CF,Actin filament polymerization,HCLS1
+CF,Actin filament polymerization,HIP1R
+CF,Actin filament polymerization,INF2
+CF,Actin filament polymerization,JAK2
+CF,Actin filament polymerization,KANK1
+CF,Actin filament polymerization,KANK2
+CF,Actin filament polymerization,KANK3
+CF,Actin filament polymerization,KANK4
+CF,Actin filament polymerization,KIRREL1
+CF,Actin filament polymerization,LATS1
+CF,Actin filament polymerization,LMOD1
+CF,Actin filament polymerization,LMOD2
+CF,Actin filament polymerization,LMOD3
+CF,Actin filament polymerization,MEGF9
+CF,Actin filament polymerization,MICALL2
+CF,Actin filament polymerization,MIR214
+CF,Actin filament polymerization,MKKS
+CF,Actin filament polymerization,MLST8
+CF,Actin filament polymerization,MSRB1
+CF,Actin filament polymerization,MSRB2
+CF,Actin filament polymerization,MTOR
+CF,Actin filament polymerization,MTPN
+CF,Actin filament polymerization,MYADM
+CF,Actin filament polymerization,NCK1
+CF,Actin filament polymerization,NCK2
+CF,Actin filament polymerization,NCKAP1
+CF,Actin filament polymerization,NCKAP1L
+CF,Actin filament polymerization,NPHS1
+CF,Actin filament polymerization,PAK3
+CF,Actin filament polymerization,PFN1
+CF,Actin filament polymerization,PFN2
+CF,Actin filament polymerization,PFN3
+CF,Actin filament polymerization,PFN4
+CF,Actin filament polymerization,PIK3R2
+CF,Actin filament polymerization,PLEKHG2
+CF,Actin filament polymerization,PREX1
+CF,Actin filament polymerization,PRKCD
+CF,Actin filament polymerization,PRKCE
+CF,Actin filament polymerization,PSTPIP1
+CF,Actin filament polymerization,PSTPIP2
+CF,Actin filament polymerization,PTK2B
+CF,Actin filament polymerization,PYCARD
+CF,Actin filament polymerization,RAC1
+CF,Actin filament polymerization,RASA1
+CF,Actin filament polymerization,RDX
+CF,Actin filament polymerization,RICTOR
+CF,Actin filament polymerization,SCIN
+CF,Actin filament polymerization,SLIT2
+CF,Actin filament polymerization,SNX9
+CF,Actin filament polymerization,SPIRE1
+CF,Actin filament polymerization,SPIRE2
+CF,Actin filament polymerization,SPTA1
+CF,Actin filament polymerization,SPTAN1
+CF,Actin filament polymerization,SPTB
+CF,Actin filament polymerization,SPTBN1
+CF,Actin filament polymerization,SPTBN2
+CF,Actin filament polymerization,SPTBN4
+CF,Actin filament polymerization,SPTBN5
+CF,Actin filament polymerization,SSH1
+CF,Actin filament polymerization,SSH2
+CF,Actin filament polymerization,SSH3
+CF,Actin filament polymerization,SVIL
+CF,Actin filament polymerization,TENM1
+CF,Actin filament polymerization,TMOD1
+CF,Actin filament polymerization,TMOD2
+CF,Actin filament polymerization,TMOD3
+CF,Actin filament polymerization,TMOD4
+CF,Actin filament polymerization,TMSB10
+CF,Actin filament polymerization,TMSB15A
+CF,Actin filament polymerization,TMSB15B
+CF,Actin filament polymerization,TMSB15C
+CF,Actin filament polymerization,TMSB4X
+CF,Actin filament polymerization,TMSB4Y
+CF,Actin filament polymerization,TRIOBP
+CF,Actin filament polymerization,TTC17
+CF,Actin filament polymerization,TWF1
+CF,Actin filament polymerization,TWF2
+CF,Actin filament polymerization,VASP
+CF,Actin filament polymerization,VIL1
+CF,Actin filament polymerization,VILL
+CF,Actin filament polymerization,WAS
+CF,Actin filament polymerization,WASF1
+CF,Actin filament polymerization,WASF3
+CF,Actin filament polymerization,WASHC2C
+CF,Actin filament polymerization,WASHC3
+CF,Actin filament polymerization,WASHC5
+CF,Actin filament polymerization,WASL
+CF,Actin filament based movement,ABCC9
+CF,Actin filament based movement,ACTA2
+CF,Actin filament based movement,ACTC1
+CF,Actin filament based movement,ACTN4
+CF,Actin filament based movement,ADCY10
+CF,Actin filament based movement,ADORA1
+CF,Actin filament based movement,AKAP9
+CF,Actin filament based movement,ANK2
+CF,Actin filament based movement,ATP1A1
+CF,Actin filament based movement,ATP1A2
+CF,Actin filament based movement,ATP2A1
+CF,Actin filament based movement,ATP2A2
+CF,Actin filament based movement,BIN1
+CF,Actin filament based movement,CACNA1C
+CF,Actin filament based movement,CACNA1D
+CF,Actin filament based movement,CACNA1G
+CF,Actin filament based movement,CACNA2D1
+CF,Actin filament based movement,CACNB2
+CF,Actin filament based movement,CAMK2D
+CF,Actin filament based movement,CAV1
+CF,Actin filament based movement,CAV3
+CF,Actin filament based movement,CCDC88C
+CF,Actin filament based movement,CTNNA3
+CF,Actin filament based movement,DLG1
+CF,Actin filament based movement,DSC2
+CF,Actin filament based movement,DSG2
+CF,Actin filament based movement,DSP
+CF,Actin filament based movement,EMP2
+CF,Actin filament based movement,EPB41L5
+CF,Actin filament based movement,EPDR1
+CF,Actin filament based movement,FGF12
+CF,Actin filament based movement,FGF13
+CF,Actin filament based movement,FLNA
+CF,Actin filament based movement,FNBP1L
+CF,Actin filament based movement,FRMD6
+CF,Actin filament based movement,GATA4
+CF,Actin filament based movement,GJA1
+CF,Actin filament based movement,GJA5
+CF,Actin filament based movement,GJC1
+CF,Actin filament based movement,GPD1L
+CF,Actin filament based movement,GSN
+CF,Actin filament based movement,HCN4
+CF,Actin filament based movement,JUP
+CF,Actin filament based movement,KCNA5
+CF,Actin filament based movement,KCND3
+CF,Actin filament based movement,KCNE1
+CF,Actin filament based movement,KCNE2
+CF,Actin filament based movement,KCNE3
+CF,Actin filament based movement,KCNE4
+CF,Actin filament based movement,KCNE5
+CF,Actin filament based movement,KCNH2
+CF,Actin filament based movement,KCNJ2
+CF,Actin filament based movement,KCNJ3
+CF,Actin filament based movement,KCNJ5
+CF,Actin filament based movement,KCNJ8
+CF,Actin filament based movement,KCNN2
+CF,Actin filament based movement,KCNQ1
+CF,Actin filament based movement,LIMCH1
+CF,Actin filament based movement,MIR1-1
+CF,Actin filament based movement,MIR133A1
+CF,Actin filament based movement,MIR328
+CF,Actin filament based movement,MIR448
+CF,Actin filament based movement,MYBPC3
+CF,Actin filament based movement,MYH10
+CF,Actin filament based movement,MYH14
+CF,Actin filament based movement,MYH2
+CF,Actin filament based movement,MYH3
+CF,Actin filament based movement,MYH4
+CF,Actin filament based movement,MYH6
+CF,Actin filament based movement,MYH7
+CF,Actin filament based movement,MYH8
+CF,Actin filament based movement,MYH9
+CF,Actin filament based movement,MYL1
+CF,Actin filament based movement,MYL11
+CF,Actin filament based movement,MYL6
+CF,Actin filament based movement,MYL6B
+CF,Actin filament based movement,MYLK2
+CF,Actin filament based movement,MYO19
+CF,Actin filament based movement,MYO1A
+CF,Actin filament based movement,MYO1B
+CF,Actin filament based movement,MYO1C
+CF,Actin filament based movement,MYO1D
+CF,Actin filament based movement,MYO1G
+CF,Actin filament based movement,MYO1H
+CF,Actin filament based movement,MYO5A
+CF,Actin filament based movement,MYO5B
+CF,Actin filament based movement,MYO5C
+CF,Actin filament based movement,MYO6
+CF,Actin filament based movement,MYO7A
+CF,Actin filament based movement,MYO7B
+CF,Actin filament based movement,MYO9B
+CF,Actin filament based movement,NEDD4L
+CF,Actin filament based movement,NOS1AP
+CF,Actin filament based movement,NUP155
+CF,Actin filament based movement,PARVA
+CF,Actin filament based movement,PDE4B
+CF,Actin filament based movement,PDE4D
+CF,Actin filament based movement,PDPN
+CF,Actin filament based movement,PIK3CA
+CF,Actin filament based movement,PKP2
+CF,Actin filament based movement,PLN
+CF,Actin filament based movement,QKI
+CF,Actin filament based movement,RANGRF
+CF,Actin filament based movement,RNF207
+CF,Actin filament based movement,ROCK1
+CF,Actin filament based movement,RYR2
+CF,Actin filament based movement,SCN10A
+CF,Actin filament based movement,SCN11A
+CF,Actin filament based movement,SCN1A
+CF,Actin filament based movement,SCN1B
+CF,Actin filament based movement,SCN2A
+CF,Actin filament based movement,SCN2B
+CF,Actin filament based movement,SCN3A
+CF,Actin filament based movement,SCN3B
+CF,Actin filament based movement,SCN4A
+CF,Actin filament based movement,SCN4B
+CF,Actin filament based movement,SCN5A
+CF,Actin filament based movement,SCN7A
+CF,Actin filament based movement,SCN8A
+CF,Actin filament based movement,SCN9A
+CF,Actin filament based movement,SGCD
+CF,Actin filament based movement,SHTN1
+CF,Actin filament based movement,SLC9A1
+CF,Actin filament based movement,SNTA1
+CF,Actin filament based movement,SRI
+CF,Actin filament based movement,STC1
+CF,Actin filament based movement,SUN2
+CF,Actin filament based movement,SYNE2
+CF,Actin filament based movement,TNNC1
+CF,Actin filament based movement,TNNT2
+CF,Actin filament based movement,TPM1
+CF,Actin filament based movement,TRPM4
+CF,Actin filament based movement,VIL1
+CF,Actin filament based movement,WAS
+CF,Actin filament based movement,WASF2
+CF,Actin filament based movement,WASL
+CF,Actin filament based movement,WIPF1
+CF,Actin filament based movement,ZEB2
